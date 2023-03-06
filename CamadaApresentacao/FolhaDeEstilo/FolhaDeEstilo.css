@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.Borda {
+    border: 1px double black;
+}
+
+.CorMenu {
+    color: green;
+}
+
+.botaoAmarelo {
+    background-color: yellow;
+}

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0933BC87-23F1-4ECE-A79C-654801CF407B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamadaNegocio</RootNamespace>
+    <AssemblyName>CamadaNegocio</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\CamadaNegocio.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO\AreaBO.cs" />
+    <Compile Include="BO\CentroDeCustoBO.cs" />
+    <Compile Include="BO\ContaBO.cs" />
+    <Compile Include="BO\EnderecoBO.cs" />
+    <Compile Include="BO\EntradaMaterialBO.cs" />
+    <Compile Include="BO\FornecedorBO.cs" />
+    <Compile Include="BO\ItemEntradaMaterialBO.cs" />
+    <Compile Include="BO\ItemLicitacaoBO.cs" />
+    <Compile Include="BO\ItemRequisicaoBO.cs" />
+    <Compile Include="BO\ItemSaidaMaterialBO.cs" />
+    <Compile Include="BO\LicitacaoBO.cs" />
+    <Compile Include="BO\NomeProdutoBO.cs" />
+    <Compile Include="BO\ProcessoBO.cs" />
+    <Compile Include="BO\ProdutoBO.cs" />
+    <Compile Include="BO\SituacaoBO.cs" />
+    <Compile Include="BO\RequisicaoBO.cs" />
+    <Compile Include="BO\RequisitanteBO.cs" />
+    <Compile Include="BO\SaidaMaterialBO.cs" />
+    <Compile Include="BO\UnidadeBO.cs" />
+    <Compile Include="BO\UsuarioBO.cs" />
+    <Compile Include="DAO\AreaDAO.cs" />
+    <Compile Include="DAO\CentroDeCustoDAO.cs" />
+    <Compile Include="DAO\Conexao.cs" />
+    <Compile Include="DAO\ContaDAO.cs" />
+    <Compile Include="DAO\EnderecoDAO.cs" />
+    <Compile Include="DAO\EntradaMaterialDAO.cs" />
+    <Compile Include="DAO\FornecedorDAO.cs" />
+    <Compile Include="DAO\ItemEntradaMaterialDAO.cs" />
+    <Compile Include="DAO\ItemLicitacaoDAO.cs" />
+    <Compile Include="DAO\ItemRequisicaoDAO.cs" />
+    <Compile Include="DAO\ItemSaidaMaterialDAO.cs" />
+    <Compile Include="DAO\LicitacaoDAO.cs" />
+    <Compile Include="DAO\NomeProdutoDAO.cs" />
+    <Compile Include="DAO\ProcessoDAO.cs" />
+    <Compile Include="DAO\ProdutoDAO.cs" />
+    <Compile Include="DAO\SituacaoDAO.cs" />
+    <Compile Include="DAO\RequisicaoDAO.cs" />
+    <Compile Include="DAO\RequisitanteDAO.cs" />
+    <Compile Include="DAO\SaidaMaterialDAO.cs" />
+    <Compile Include="DAO\UnidadeDAO.cs" />
+    <Compile Include="DAO\UsuarioDAO.cs" />
+    <Compile Include="MODEL\Area.cs" />
+    <Compile Include="MODEL\CentroDeCusto.cs" />
+    <Compile Include="MODEL\Conta.cs" />
+    <Compile Include="MODEL\Endereco.cs" />
+    <Compile Include="MODEL\EntradaMaterial.cs" />
+    <Compile Include="MODEL\Fornecedor.cs" />
+    <Compile Include="MODEL\ItemEntradaMaterial.cs" />
+    <Compile Include="MODEL\ItemLicitacao.cs" />
+    <Compile Include="MODEL\ItemRequisicao.cs" />
+    <Compile Include="MODEL\ItemSaidaMaterial.cs" />
+    <Compile Include="MODEL\Licitacao.cs" />
+    <Compile Include="MODEL\NomeProduto.cs" />
+    <Compile Include="MODEL\Processo.cs" />
+    <Compile Include="MODEL\Produto.cs" />
+    <Compile Include="MODEL\ProdutoTipo.cs" />
+    <Compile Include="MODEL\Situacao.cs" />
+    <Compile Include="MODEL\Requisicao.cs" />
+    <Compile Include="MODEL\Requisitante.cs" />
+    <Compile Include="MODEL\SaidaMaterial.cs" />
+    <Compile Include="MODEL\TipoConta.cs" />
+    <Compile Include="MODEL\Unidade.cs" />
+    <Compile Include="MODEL\Usuario.cs" />
+    <Compile Include="MODEL\UsuarioNivelAcesso.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

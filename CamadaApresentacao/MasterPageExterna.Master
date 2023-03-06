@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageExterna.master.cs" Inherits="CamadaApresentacao.MasterPageExterna" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!--Titulo da página-->
+    <title>SIA - Sistema de Almoxarifado</title>
+
+    <!--Referencia do bootstrap-->
+    <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!--Referencia da folha de estilo css-->
+    <link href="FolhaDeEstilo/FolhaDeEstilo.css" rel="stylesheet" />
+
+    <!--Referencia do Font-Awesome-->
+    <link href="font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    <!--Referencia jquery ui para datepicker funcionar-->
+    <link href="jquery-ui-1.11.4.custom/jquery-ui.min.css" rel="stylesheet" />
+    <link href="jquery-ui-1.11.4.custom/jquery-ui.theme.min.css" rel="stylesheet" />
+    <link href="jquery-ui-1.11.4.custom/jquery-ui.structure.min.css" rel="stylesheet" />
+    
+    <!--Referencia do jquery bdt-->
+    <link href="jqueryBDT/jquery.bdt.css" rel="stylesheet" />
+    
+    <!--Referencia do jquery para o javascript funcionar-->
+    <script src="jquery-2.2.0/jquery-2.2.0.min.js"></script>
+
+    <!--Referencia do bootstrap javascript-->
+    <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+
+    <!--Referencia do jquery-ui javascript-->
+    <script src="jquery-ui-1.11.4.custom/jquery-ui.min.js"></script>
+
+    <!--Referencia do Jasny bootstrap javascript-->
+    <script src="jasny-bootstrap/js/jasny-bootstrap.min.js"></script>
+
+    <!--Referencia do jquery Mask Money javascript-->
+    <script src="jqueryMaskMoney/jquery.maskMoney.min.js"></script>
+    
+    <!--Referencia do jquery bdt javascript-->
+    <script src="jqueryBDT/jquery.bdt.js"></script>
+    
+    <!--Bootstrap DateTimePicker Java Script em português-->
+    <script type="text/javascript">
+        $(function () {
+            $(".datepicker").datepicker({
+                template: 'modal',
+                dateFormat: 'dd/mm/yy',
+                dayNames: ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado'],
+                dayNamesMin: ['D', 'S', 'T', 'Q', 'Q', 'S', 'S', 'D'],
+                dayNamesShort: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb', 'Dom'],
+                monthNames: ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'],
+                monthNamesShort: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+                nextText: 'Próximo',
+                prevText: 'Anterior'
+            });
+            $(".datepicker").datepicker("option", "showAnim", "show");
+        });
+    </script>
+
+    <!--Código para mascara monetária-->
+    <script type="text/javascript">
+        $(function () {
+            $(".mascaraMonetaria").maskMoney();
+        })
+    </script>
+
+    <!--Código para formatação em R$-->
+    <script type="text/javascript">
+        $(function () {
+            $(".mascaraMonetaria").maskMoney({
+                symbol: 'R$ ',
+                showSymbol: true, thousands: '.', decimal: ',', symbolStay: true
+            });
+        })
+    </script>
+
+    <!--Código para buscar automática no gridview bdt-->
+    <script>
+        $(document).ready(function () {
+            $('.busca').bdt();
+        });
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" class="form-horizontal">
+        <!--Conteiner da página-->
+        <div class="container">
+
+            <!--Row com o logo tipo-->
+            <div class="row">
+                <div class="col-md-12 col-md-offset-4">
+                    <img src="Imagem/logoMarcaIncra%20.jpg" width="300px" height="65px" />
+                </div>
+            </div>
+
+            <!--Row com o Título do sistema-->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-success">
+                        <div class="panel-heading">
+                            <h3 class="panel-title text-center"><strong>SIA - Sistema de Almoxarifado - INCRA/SR-17/RO</strong></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--Conteudo externo do sistema-->
+            <asp:ContentPlaceHolder ID="ConteudoExterno" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <!--Row com o Rodapé do sistema-->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-success">
+                        <div class="panel-heading">
+                            <h3 class="panel-title text-center"><strong>INCRA - Instituto Nacional de Colonização e Reforma Agrária</strong></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

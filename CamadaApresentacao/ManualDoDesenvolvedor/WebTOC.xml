@@ -1,0 +1,1107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="ad69d2ef-f35e-4dc9-8e62-f62dd409eeed" Title="CamadaNegocio.BO" Url="html/e59aee5f-d438-7299-f0bf-b49712fefa76.htm">
+    <HelpTOCNode Id="3eee7fa7-bf7b-43d2-ac2d-dee5b0e53dc7" Title="AreaBO Class" Url="html/7ea3dd9f-e9f6-7cb8-8d57-2d1dcb300d47.htm">
+      <HelpTOCNode Title="AreaBO Constructor " Url="html/a87d73a3-4f12-bb97-5edd-3a9434ab45ad.htm" />
+      <HelpTOCNode Id="d2600a1b-2954-48ff-9762-f4e5800989cf" Title="AreaBO Fields" Url="html/7b2f5f4f-3692-4d23-1a90-8a3473984109.htm">
+        <HelpTOCNode Title="area Field" Url="html/0e527ce9-c6a9-cb12-dc2c-00ec4f5f85fa.htm" />
+        <HelpTOCNode Title="areaDAO Field" Url="html/88a31c19-77a9-7315-d464-2a839f5e2173.htm" />
+        <HelpTOCNode Title="listaArea Field" Url="html/c46613a8-3dde-1af7-8ac9-bf628a46e0f9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4f2c760c-8363-440a-9d4c-54b19c71fd53" Title="AreaBO Methods" Url="html/94762db3-d3eb-170a-2b3f-fa4635e63c9a.htm">
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/3ccd1e6c-620f-caf0-69cb-46cec065d428.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/d8b2a8ac-4b92-79a9-cde8-d1f963025eec.htm" />
+        <HelpTOCNode Title="BuscarTodasAreas Method " Url="html/718a74dc-1798-c5ab-351d-4f0bfde9c670.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/9b6309e3-e942-5834-1508-2d5308c95135.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/8a26bf0c-32f3-e637-4bb6-1ff0bfe282e9.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/53ee0cd8-16b7-6352-2011-c3f1901f401f.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/eaa169d2-07f3-fee1-0d56-d60dc86ea800.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a17977fc-d531-433f-a9e5-b1de5564a56e" Title="CentroDeCustoBO Class" Url="html/5631cacf-7c5f-39ab-06bc-e343eb675557.htm">
+      <HelpTOCNode Title="CentroDeCustoBO Constructor " Url="html/efdc78e9-1a18-4d9e-a612-b900c6dc0604.htm" />
+      <HelpTOCNode Id="b86f6349-7d5a-4f55-aec6-ce7b1f5f7e4f" Title="CentroDeCustoBO Fields" Url="html/773bbfca-f565-1453-2e60-c596114c9aa5.htm">
+        <HelpTOCNode Title="centroDeCusto Field" Url="html/5b38aaf7-0856-f0d1-3f66-9f632be1c4df.htm" />
+        <HelpTOCNode Title="centroDeCustoDAO Field" Url="html/f2c4292e-b756-f8b1-492e-cb3333114516.htm" />
+        <HelpTOCNode Title="listaCentroDeCusto Field" Url="html/48ed3a39-b2f2-6c8b-d9d5-6ae135bece45.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c7c739ad-6d9a-41fe-8063-d3d895c07e13" Title="CentroDeCustoBO Methods" Url="html/242bcc81-dcb0-8fb9-8445-ad68adbbaae2.htm">
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/46fe89d4-b528-fe4f-3927-1bb67d33ef51.htm" />
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/1a82de0d-e3cc-052d-9da0-ce7424d32355.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/3dc369f0-68fe-fdfe-e3a0-7a7529c78fd3.htm" />
+        <HelpTOCNode Title="BuscarTodosCentrosDeCusto Method " Url="html/4d3eff8a-7c9c-f335-8ef0-10be20c847e9.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/490c09a3-7294-ae9a-9148-d4fc5280571c.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/04a10bb6-f220-430c-5617-68f36c0a86b2.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/fcf833b9-4278-69f2-2bbc-5f3f1c853cff.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/b09f8b5a-5b1c-56eb-6f28-3cf4b167ad81.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5a59e183-db2f-4f9c-bfdd-e6d2e4821f36" Title="ContaBO Class" Url="html/386910f1-add1-ac9f-15e7-5c6b1c64e363.htm">
+      <HelpTOCNode Title="ContaBO Constructor " Url="html/8010e3fc-3720-70ba-288e-4a8df0b327b3.htm" />
+      <HelpTOCNode Id="3f885c85-9677-4631-8557-fadf4b460073" Title="ContaBO Fields" Url="html/8c037bdb-b685-de09-ad6e-22334cb97e58.htm">
+        <HelpTOCNode Title="conta Field" Url="html/4d50bd6f-ca4e-b72d-b767-1f1d04ddc000.htm" />
+        <HelpTOCNode Title="contaDAO Field" Url="html/0b299420-5d1e-ac14-8eec-e3c132db5b3f.htm" />
+        <HelpTOCNode Title="listaConta Field" Url="html/abee4e30-e892-c2aa-bb70-4d70b061a505.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="14227928-7d30-4da6-bc9a-0545f44a4387" Title="ContaBO Methods" Url="html/270dbaf7-5673-06b3-8882-86ac490f39ca.htm">
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/0e749940-8598-5d09-a05c-5b2012b9dc19.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/a7e7a032-5985-5e32-b1b9-59cd0abbfd5b.htm" />
+        <HelpTOCNode Title="BuscarPorNumero Method " Url="html/4578e0e6-b7fd-c3f2-a3f8-48a264802cdc.htm" />
+        <HelpTOCNode Title="BuscarTodasContas Method " Url="html/c97832b9-4764-049f-1ecb-70730a241e67.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/7d353eab-6cab-b55c-09c6-07b208fe41d4.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/44055b9d-c71d-34fe-63cd-66ca274c8894.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/257b6ad5-08d5-8e9d-ec95-1210db9862cb.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/dc7f21bf-1f09-5860-e955-214a7c210c21.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6a882657-cc88-44c2-a5bc-12ee014ecb19" Title="EnderecoBO Class" Url="html/a19733db-7647-ac48-b8e8-77bae917279d.htm">
+      <HelpTOCNode Title="EnderecoBO Constructor " Url="html/96dbd254-e639-b635-9178-b042516a3be0.htm" />
+      <HelpTOCNode Id="f030417d-c0b8-4c7f-a22b-1bb47112cbaa" Title="EnderecoBO Fields" Url="html/eced745e-3946-5d24-c311-d4d29aaa4d1c.htm">
+        <HelpTOCNode Title="endereco Field" Url="html/3342eab2-30c9-1ff7-252c-f0c211344e03.htm" />
+        <HelpTOCNode Title="enderecoDAO Field" Url="html/a1d5ae32-1f72-e1e5-852b-bb453f9a2388.htm" />
+        <HelpTOCNode Title="listaEndereco Field" Url="html/dd9adc1c-260e-47f3-c39d-7c0b3a1897be.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="672d1956-0ba0-4373-8b9c-3c109ce526ec" Title="EnderecoBO Methods" Url="html/f03f5b25-990d-bef3-1e22-b78ee2d2a704.htm">
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/48ca7190-620a-6acc-296f-7cb04f781fda.htm" />
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/d176b36f-c319-6a16-e3a5-aa6acd46e262.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/a5c1d0f7-cf06-17aa-325d-553dfd6dcd6d.htm" />
+        <HelpTOCNode Title="BuscarTodosEnderecos Method " Url="html/885eed83-d487-10f6-a7ff-484c37014723.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/b7f6c159-c52f-ed7c-ef7e-df4c711c09a9.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/37b113a8-7475-b361-af0d-d1fea38a2227.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/e85377ce-d217-5f69-67bd-40d7d3f1dc5c.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/82e699eb-b864-f152-de7f-1aaa55bcd981.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3b64e431-f645-4bd4-a6f5-336ccf9cd1ab" Title="EntradaMaterialBO Class" Url="html/dab1a1be-5dec-3349-ee1c-d1cd46db59b1.htm">
+      <HelpTOCNode Title="EntradaMaterialBO Constructor " Url="html/d4ca2c4d-db5e-c22d-e5aa-db9ced6df10c.htm" />
+      <HelpTOCNode Id="5fcae1ca-0fdf-4493-a4e8-ff282f80585e" Title="EntradaMaterialBO Fields" Url="html/a0a76159-6f43-a304-8cdd-472cb8ee68be.htm">
+        <HelpTOCNode Title="entradaMaterial Field" Url="html/45819604-b384-ef7f-f62e-cf9caea70921.htm" />
+        <HelpTOCNode Title="entradaMaterialDAO Field" Url="html/fe16a648-e2bc-f814-027e-319bc94c5b9b.htm" />
+        <HelpTOCNode Title="listaEntradaMaterial Field" Url="html/9cfd8c9b-c388-d771-8b3a-739140f1db37.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="623bf870-6d2d-4329-bc9f-784bb20e1480" Title="EntradaMaterialBO Methods" Url="html/d110e7ce-5f77-a88d-5f92-75963f6ba14a.htm">
+        <HelpTOCNode Title="BuscarEntradaDataPorBetween Method " Url="html/edd4ad19-29c0-7458-7e69-d5bd7510b32f.htm" />
+        <HelpTOCNode Title="BuscarPorEntradaData Method " Url="html/5d95641a-fb03-5402-c272-ec303a1d29bd.htm" />
+        <HelpTOCNode Title="BuscarPorFornecedor Method " Url="html/7f0995c9-c0e1-ffb6-356d-28600ac1e58a.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/9158bc1a-2461-45d1-d085-b8c3d7d61da4.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/c9bdec8c-7094-a8ea-55aa-334598564890.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/6f8a9f23-acca-f347-5724-a059963998b0.htm" />
+        <HelpTOCNode Title="BuscarTodasEntradasMaterial Method " Url="html/a184e6df-06fe-8f15-8b47-57556190621e.htm" />
+        <HelpTOCNode Title="BuscarTodasEntradasMaterialComItens Method " Url="html/6243ceee-b4b5-6240-4cf2-dd2c6b20ed53.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/e9024002-0832-10db-34ef-903bfba0f3e2.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/c103181d-3d98-9b62-4452-776912e97222.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/e248c4dc-d6f6-7699-bd53-eac9eab50486.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/a76ae8e2-d358-66b9-42fe-9e55ffae393c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9aa34790-df71-47c3-947d-ea0e54362547" Title="FornecedorBO Class" Url="html/ac48186e-2352-7cf2-ae1f-2ed0cb7a90e4.htm">
+      <HelpTOCNode Title="FornecedorBO Constructor " Url="html/dc2b9ea5-c14d-9ccb-d557-baff2dd3c4c9.htm" />
+      <HelpTOCNode Id="b58db84c-09e5-423e-af67-5c55b61a9456" Title="FornecedorBO Fields" Url="html/1605fed2-435b-79bd-2d39-6c65def4f656.htm">
+        <HelpTOCNode Title="fornecedor Field" Url="html/bebb1879-bba1-1f3f-94cb-9b79ea2f43fa.htm" />
+        <HelpTOCNode Title="fornecedorDAO Field" Url="html/bbd7e825-5106-551a-1a3c-b16580bf4446.htm" />
+        <HelpTOCNode Title="listaFornecedor Field" Url="html/6f10e570-1a24-dfe7-65f7-5da63286a2df.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c42bd8b-11ff-4c23-bba6-c2372cffdacd" Title="FornecedorBO Methods" Url="html/54710bb0-d02c-bc15-c399-e76399393fe4.htm">
+        <HelpTOCNode Title="BuscarPorCnpj Method " Url="html/7b18f7f6-838d-804e-5e0c-aa5d6b6ab585.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/a81894a8-807d-4b29-662f-bf911a79f12d.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/861bbded-a8ab-8b98-80ad-62e1e5031613.htm" />
+        <HelpTOCNode Title="BuscarPorRazaoSocial Method " Url="html/421eb5d9-5e36-7e87-9b24-db098dcbb7c6.htm" />
+        <HelpTOCNode Title="BuscarTodosFornecedores Method " Url="html/59b1aea4-03df-4fcf-4385-0c71e828632b.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/67c0976f-6b0c-d95f-f972-0e74cb48409e.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/cf778945-98e3-d555-a95e-f6eccaa96cad.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/1292a16d-f20b-6b36-89ce-c1efdfee0586.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/1c3177be-e04a-7039-ff5c-46238aaf8594.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce359b8b-dcf7-42fc-838c-84b3d9f48e3c" Title="ItemEntradaMaterialBO Class" Url="html/b33dff65-25ff-acc7-2182-f87672df2948.htm">
+      <HelpTOCNode Title="ItemEntradaMaterialBO Constructor " Url="html/cb36b96e-2b52-0575-46cb-da7f53a78bc7.htm" />
+      <HelpTOCNode Id="166e4f69-7484-41e1-9958-418e1bbd7b24" Title="ItemEntradaMaterialBO Fields" Url="html/7f112e3f-3e63-0e52-15ee-4e09fa08f077.htm">
+        <HelpTOCNode Title="itemEntradaMaterial Field" Url="html/88577894-7a9c-75ba-789d-c616828503af.htm" />
+        <HelpTOCNode Title="itemEntradaMaterialDAO Field" Url="html/dcc5cdb3-e09d-d551-3288-81d452358395.htm" />
+        <HelpTOCNode Title="listaItemEntradaMaterial Field" Url="html/d8582a8e-739c-3cb3-b511-eb21df8dd120.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="85f601fd-a15d-4cfe-a7fe-e2c3db457cb1" Title="ItemEntradaMaterialBO Methods" Url="html/0614e641-fa62-6c05-41d6-55d0be07dadb.htm">
+        <HelpTOCNode Title="BuscarItensDaEntradaMaterial Method " Url="html/cd9b1650-dece-db4e-a051-b5316ea227cb.htm" />
+        <HelpTOCNode Title="BuscarItensDaEntradaMaterialPorData Method " Url="html/f4839797-1294-b32a-64da-d71745218f44.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/65179d53-aed7-2ac9-14c4-d77bf4b16fe8.htm" />
+        <HelpTOCNode Title="BuscarTodosItensDaEntradaMaterial Method " Url="html/7b77551c-627a-8547-cfda-2542ae17e00f.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/f9089487-5f85-13c7-426f-6ac4248e4251.htm" />
+        <HelpTOCNode Title="ExcluirItensDaEntradaMaterial Method " Url="html/4ad45d66-ca2f-6039-f3eb-03ffd194e9ff.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/274d4e2f-1cf7-22a8-f4b2-97c40b82b476.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/5c88089b-dd6c-f9ea-7d29-b65f34777dc7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="73103c05-45e1-4256-81d5-68cb8266e6a2" Title="ItemLicitacaoBO Class" Url="html/ea7a8f05-f222-d2c6-7bee-9b07739f8500.htm">
+      <HelpTOCNode Title="ItemLicitacaoBO Constructor " Url="html/4e78a7f1-2e19-3dd1-ea18-c8fc48ea0325.htm" />
+      <HelpTOCNode Id="8fa5c2fe-eb7f-4df1-b76c-7d7c24ff31b5" Title="ItemLicitacaoBO Fields" Url="html/9565246b-240f-2b02-93f4-4de18961293b.htm">
+        <HelpTOCNode Title="itemLicitacao Field" Url="html/bd6e0997-f243-538f-8b2d-4ef861c5ed71.htm" />
+        <HelpTOCNode Title="itemLicitacaoDAO Field" Url="html/e2631026-ce90-e605-7b58-3dc62422aa4e.htm" />
+        <HelpTOCNode Title="listaItemLicitacao Field" Url="html/9406ad75-37c7-438d-1626-35f13f58f146.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="be1a89c5-ac49-425a-aecb-4f6bc2633ad0" Title="ItemLicitacaoBO Methods" Url="html/40a3ccee-44b8-df59-ad3d-80ee55552041.htm">
+        <HelpTOCNode Title="BuscarItensDaLicitacao Method " Url="html/9806e86a-a45c-bf64-2b59-27b4a8f62ac1.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/c65a9163-3db1-fa9a-7660-f107db5d7e19.htm" />
+        <HelpTOCNode Title="BuscarProdutoDoItemLicitacao Method " Url="html/705079f1-eaeb-6491-37e1-df6f24e9d1cc.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/146ad676-041b-989a-5fcc-f42673b858bf.htm" />
+        <HelpTOCNode Title="ExcluirItensDaLicitacao Method " Url="html/e0eefa1f-345d-425d-bc91-2ed71863f43b.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/1ba8db63-4c19-51a5-2f65-ef55dee7d165.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/e19e5531-4d53-436e-dabf-278dcfe12e84.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a59e1b0f-cbcc-459e-ae18-9a65c4a53df7" Title="ItemRequisicaoBO Class" Url="html/57ab7ffd-4cb8-5b57-6d47-dd5ba28dd0a8.htm">
+      <HelpTOCNode Title="ItemRequisicaoBO Constructor " Url="html/9a7d141f-a6c1-da07-0731-7fa81228a9f1.htm" />
+      <HelpTOCNode Id="49fd16f9-edef-400a-a14f-743ecccf6f7f" Title="ItemRequisicaoBO Fields" Url="html/1c094ff0-dda2-c103-c3c2-c916f68f43d3.htm">
+        <HelpTOCNode Title="itemRequisicao Field" Url="html/18b81e5f-5a54-8a6d-9dc3-e239273165d4.htm" />
+        <HelpTOCNode Title="itemRequisicaoDAO Field" Url="html/83dc223e-6fba-f9d7-180e-fae9c3b6d10b.htm" />
+        <HelpTOCNode Title="listaItemRequisicao Field" Url="html/a2b53827-e995-a37b-e78a-cd77e5c680ed.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="61def841-608b-49d9-b3fa-38350c20b0f3" Title="ItemRequisicaoBO Methods" Url="html/3dee8667-0716-af9b-b59b-16615027aa43.htm">
+        <HelpTOCNode Title="BuscarItensDaRequisicao Method " Url="html/02803010-ea96-ca52-b584-d483deabd68a.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/189bb645-f673-b77f-1bdb-5b7b0ca5a103.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/388b8b4f-eb66-ba32-dc9a-7eda9e4e6ffb.htm" />
+        <HelpTOCNode Title="ExcluirItensDaRequisicao Method " Url="html/19661f90-7e4e-b64c-e655-be5e67e2de35.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/abdd7db6-f10f-358b-3131-f93d83c5fb92.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/d3c50266-2594-ab60-3416-a1baf31a890f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8c3cc764-91fc-492e-beeb-35871090be73" Title="ItemSaidaMaterialBO Class" Url="html/08cc2e66-4066-4340-0abd-fc8e4f75686e.htm">
+      <HelpTOCNode Title="ItemSaidaMaterialBO Constructor " Url="html/09018ecf-bc6e-0135-f6b8-807b2550976f.htm" />
+      <HelpTOCNode Id="ae6d8002-5667-4fd2-a936-8a7a702c0bb3" Title="ItemSaidaMaterialBO Fields" Url="html/52e4aaa5-1be8-84c6-17f1-c0cfa1d90489.htm">
+        <HelpTOCNode Title="itemSaidaMaterial Field" Url="html/4366e49d-4d68-d18d-7a5c-48aefda276d9.htm" />
+        <HelpTOCNode Title="itemSaidaMaterialDAO Field" Url="html/a3663d6d-b862-450d-a9eb-630a19a639a5.htm" />
+        <HelpTOCNode Title="listaItemSaidaMaterial Field" Url="html/ff716d1f-dffb-f016-9c04-7a402fd0de0b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6340a738-4468-47d1-bb21-d70b8ba9d1dc" Title="ItemSaidaMaterialBO Methods" Url="html/b309edb0-faf9-6512-c4ec-008d2d665069.htm">
+        <HelpTOCNode Title="BuscarItensDaSaidaMaterial Method " Url="html/ed14f32a-6435-1128-0850-d987e2a05913.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/9b022ff4-bc85-d19e-638c-f4e85bfd7024.htm" />
+        <HelpTOCNode Title="BuscarTodosItensDaSaidaMaterial Method " Url="html/03a35747-0c42-2a86-5c4d-d2f39f9533b3.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/e1faeeaf-3053-7875-9ba0-c26f6b5dd763.htm" />
+        <HelpTOCNode Title="ExcluirItensDaSaidaMaterial Method " Url="html/dd790e19-d943-9f0f-fc1c-d0fd332622ad.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/108ed349-367d-7918-b909-79ad18caa95d.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/c8bbdd59-0ea5-36ae-3ae5-3e55cfce9759.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0298f7f0-6a7f-4e1f-8794-8ba257130c2e" Title="LicitacaoBO Class" Url="html/4b1f8757-e6bf-25a6-88bf-ece04630cfff.htm">
+      <HelpTOCNode Title="LicitacaoBO Constructor " Url="html/39056953-b552-7f95-ea2c-0fdda815d040.htm" />
+      <HelpTOCNode Id="a127035f-6442-433f-9f38-a95d05e2a1b1" Title="LicitacaoBO Fields" Url="html/beff4f85-2ac0-be3f-02ec-780068a220d9.htm">
+        <HelpTOCNode Title="licitacao Field" Url="html/609673e7-55cb-5e5f-5955-7581507b4ae3.htm" />
+        <HelpTOCNode Title="licitacaoDAO Field" Url="html/6c963421-8caa-b128-4377-be50171182f2.htm" />
+        <HelpTOCNode Title="listaLicitacao Field" Url="html/43fde908-226a-3e82-0879-df4bb49b58fe.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c79f1f75-3d52-483a-b931-84e6667bb743" Title="LicitacaoBO Methods" Url="html/fa105941-6e36-a526-bd8b-0c0d6741c531.htm">
+        <HelpTOCNode Title="BuscarDataCadastroPorBetween Method " Url="html/9c2ed9ec-d053-a07b-d97c-b07bb6277a4e.htm" />
+        <HelpTOCNode Title="BuscarPorDataCadastro Method " Url="html/67810d01-b98d-44c3-fbc9-58cf08e8683a.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/322702a6-51ce-acd0-1b61-e0337c767867.htm" />
+        <HelpTOCNode Title="BuscarPorModalidadeCompra Method " Url="html/ad707820-38a4-2741-065f-e4c2411cee0c.htm" />
+        <HelpTOCNode Title="BuscarPorProcesso Method " Url="html/3afafc88-255e-301a-e04a-291c5f983340.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/3e7af26b-4db5-cb86-d85c-161627e059d0.htm" />
+        <HelpTOCNode Title="BuscarPorUltimaLicitacao Method " Url="html/c151cffc-14f6-aaa0-4eac-f4df019a70a1.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/6331308e-5cdf-8dc4-fed5-a054bd3fe9fe.htm" />
+        <HelpTOCNode Title="BuscarTodasLicitacoes Method " Url="html/fd44e016-979e-7208-e7f7-0032fcf60c69.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/9b38b562-57a3-0b49-71eb-e81a6a3635be.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/b4ddf201-48b1-cf89-eb3b-877620770491.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/aaed7a28-fb2b-724a-3507-646335282ff1.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/5a39a6d8-6feb-8e82-0eb3-919b0f9eddb5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5911cb8b-fb04-4503-a3de-4331b3ec8bee" Title="NomeProdutoBO Class" Url="html/03c16a9b-ad87-2b4f-2420-fc96f950dc4a.htm">
+      <HelpTOCNode Title="NomeProdutoBO Constructor " Url="html/5dc1b1ad-be77-f747-0f9f-778d91464313.htm" />
+      <HelpTOCNode Id="1680c66c-8bbd-4fa6-a0a2-cb23dacec14a" Title="NomeProdutoBO Fields" Url="html/c6b82cac-e135-6cb0-8b1d-4e9edad1c9bb.htm">
+        <HelpTOCNode Title="listaNomeProduto Field" Url="html/a449dac5-560f-99a6-26fc-1cb5626fd2d7.htm" />
+        <HelpTOCNode Title="nomeProduto Field" Url="html/5f1e157a-74a8-4e17-c044-49a2325f2941.htm" />
+        <HelpTOCNode Title="nomeProdutoDAO Field" Url="html/9d708a8d-f5de-a383-247b-e2c0253df275.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="554d117d-14c1-4450-91e9-3766758170c5" Title="NomeProdutoBO Methods" Url="html/0be3aba4-d0e5-281c-6619-5a343c216c95.htm">
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/3146cb60-7b46-b079-eafb-0b3254faae69.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/dd748e03-d62a-5e44-54f0-7bb16057fc74.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/176c3797-aeec-ded2-d3d0-a04cac3cf447.htm" />
+        <HelpTOCNode Title="BuscarTodosNomesProdutos Method " Url="html/a3ccc6af-e450-1156-a47d-1e6343e97949.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/30984353-7a1d-557b-4600-39676b4aa143.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/11dab9fd-5f81-7170-bad3-11f2b3f62c9e.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/00efed28-8522-2347-e987-03bfa419d502.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/938c3344-01c6-e339-6546-64e5f1a5d720.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bff30d06-5c3c-40af-a2e9-50a18bea13ed" Title="ProcessoBO Class" Url="html/fca5208b-4d4f-eef5-4927-74bf816eebe7.htm">
+      <HelpTOCNode Title="ProcessoBO Constructor " Url="html/b36e856c-fee0-f89c-b9ca-39b2f1221739.htm" />
+      <HelpTOCNode Id="9585e32a-b523-4a43-9d32-b51e117e0319" Title="ProcessoBO Fields" Url="html/65dcc05c-2dca-f85c-e55d-bcaf6430b7a6.htm">
+        <HelpTOCNode Title="listaProcesso Field" Url="html/096fdad8-51b5-a110-3c76-1760f7dcab90.htm" />
+        <HelpTOCNode Title="processo Field" Url="html/c47fcbac-7284-e1eb-cc72-2e7f0818dc09.htm" />
+        <HelpTOCNode Title="processoDAO Field" Url="html/3a411ec1-703c-dd02-a354-283ee247515d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="67b7b7d9-6003-4d6d-85c5-5f6e293ab936" Title="ProcessoBO Methods" Url="html/8c392714-d7ce-0458-fd67-e3d9c32fa0ae.htm">
+        <HelpTOCNode Title="BuscarPorData Method " Url="html/4215451e-146f-f6bb-0c7d-bc0aabb0fbb4.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/2395bbbf-d2f9-7a85-c02b-e2a3868c0bcb.htm" />
+        <HelpTOCNode Title="BuscarPorNumero Method " Url="html/c2348d7c-d3e5-6ad9-0f6c-1c22c84cbb02.htm" />
+        <HelpTOCNode Title="BuscarTodosProcessos Method " Url="html/1dfb290c-9a88-a4d2-8d14-fb93becf3045.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/05ad10ba-af2c-f73b-05b0-331a9dafe264.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/193eb75a-57ae-db8b-5f81-152b9ee69a87.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/db98e1b5-f5c4-46c4-753d-7517b0240f71.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/828dbc2b-d18d-55b0-4a7c-afad8d653a71.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd562978-cde4-45e8-8608-e341bafc9ef7" Title="ProdutoBO Class" Url="html/dcb32c60-9116-06ee-69d4-5b8c76568810.htm">
+      <HelpTOCNode Title="ProdutoBO Constructor " Url="html/b6a132f0-8b15-cc33-4571-ced2f86abdcc.htm" />
+      <HelpTOCNode Id="46918ec4-0bce-4a69-83e5-c36c17d2f7b5" Title="ProdutoBO Fields" Url="html/6f19252f-807f-3058-cd1a-a65e7af6187f.htm">
+        <HelpTOCNode Title="listaProduto Field" Url="html/fe6ef11c-878a-2194-bd84-cfc73a3a40da.htm" />
+        <HelpTOCNode Title="produto Field" Url="html/aace37bf-2c26-cb5d-6e71-47dda0cb5532.htm" />
+        <HelpTOCNode Title="produtoDAO Field" Url="html/0c2c96c8-4b36-5df9-b329-c4ac2b0c60de.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="845c3e04-446f-4db2-acfb-74f3458462ab" Title="ProdutoBO Methods" Url="html/651488e6-b9ea-0895-4700-9794285ee1ea.htm">
+        <HelpTOCNode Title="AtualizarQtdeEstoquePorCodigoProdutoEntrada Method " Url="html/2d6c5f26-d958-4aa8-05d4-c3a5a4e10715.htm" />
+        <HelpTOCNode Title="AtualizarQtdeEstoquePorCodigoProdutoSaida Method " Url="html/2fd3b7ee-91d0-6ce9-e226-6497338ef86d.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/902b7eb7-9d49-edf1-4cb9-90bc9c4536ae.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/a1241819-9412-f760-3ce2-6a38a5dc3c16.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/b9bd5991-dc5d-470f-e131-8d2c8a1ce4c7.htm" />
+        <HelpTOCNode Title="BuscarPorPrecoUnitario Method " Url="html/a45ef652-e9e6-0bb0-4fb9-87c46d445b49.htm" />
+        <HelpTOCNode Title="BuscarPorUltimoProdutoCadastrado Method " Url="html/6f747a76-c282-b99e-8cdb-c867b3f3dc25.htm" />
+        <HelpTOCNode Title="BuscarTodosProdutos Method " Url="html/62efd58f-2921-ac2e-f65e-5dc3f2d11375.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/c5dfa8f9-7ed2-6f15-f0ee-e27c1d46cd5a.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/fe70744e-1150-9596-537a-c424b2c1c6f1.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/72ee4c38-40f7-49ab-6901-13e2e979ff82.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/c3baac59-585f-25d7-0ef2-3a8d4a00fe4c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7f59fce9-9d86-4167-8b6c-7ba8779a0237" Title="RequisicaoBO Class" Url="html/3c1157fc-ee22-038e-074d-ff8d009d1c41.htm">
+      <HelpTOCNode Title="RequisicaoBO Constructor " Url="html/fca97396-cd01-9a20-c49e-3bbd8f49e4ae.htm" />
+      <HelpTOCNode Id="15bc2ddb-7a3c-4995-8281-3b45b2b51a79" Title="RequisicaoBO Fields" Url="html/9312a784-7066-fda1-76fb-c2c5b909bc6a.htm">
+        <HelpTOCNode Title="listaRequisicao Field" Url="html/7f1c4d43-9daf-cebd-b58f-f4184582403e.htm" />
+        <HelpTOCNode Title="requisicao Field" Url="html/d07620e0-8dcb-7c52-eaa6-26f717310ee4.htm" />
+        <HelpTOCNode Title="requisicaoDAO Field" Url="html/52051657-19a0-c17f-0cfa-6ba7e0813e34.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cc34d28d-c076-4428-bbcf-437a960821bc" Title="RequisicaoBO Methods" Url="html/79564e00-ef22-ec0d-9f25-23a0290fe739.htm">
+        <HelpTOCNode Title="BuscarDataCadastroPorBetween Method " Url="html/8d072b6e-6d2b-35cb-aacd-770296c62104.htm" />
+        <HelpTOCNode Title="BuscarDataCadastroPorBetweenPorArea Method " Url="html/52dd9c62-2afa-cdab-a646-3d3cf704f8df.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/8a770b69-e4e8-f4ce-5d3d-847a809ba7ea.htm" />
+        <HelpTOCNode Title="BuscarPorCodigoPorArea Method " Url="html/df174437-6051-115f-1401-778c47703990.htm" />
+        <HelpTOCNode Title="BuscarPorDataCadastro Method " Url="html/00c11e65-1a1e-7973-5859-31d6efcdf2fd.htm" />
+        <HelpTOCNode Title="BuscarPorDataCadastroPorArea Method " Url="html/fe2d16f0-79f1-5097-b170-6b91e561190e.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/3f946673-14d9-d905-6561-470e1949eb72.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesAbertasOuPendentes Method " Url="html/85378861-87ee-d9ad-b29c-f5be60d05edf.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesAbertasOuPendentesPorArea Method " Url="html/26ea5894-2452-3f1f-0963-3e0520987701.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesEmAberto Method " Url="html/3e261145-e7aa-61a1-0a73-a7aa8a9fa5d2.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesEmAbertoPorArea Method " Url="html/5975115b-2c8c-ee1b-0656-a7a3e16cd2d2.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesFinalizadas Method " Url="html/badbe464-4b37-3bd0-57aa-cb09b3ef8489.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesFinalizadasPorArea Method " Url="html/59680d5e-4b6a-01b7-3b1d-9c3348d3278a.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesPendentes Method " Url="html/c900d45e-68d3-2bc2-fd0d-ce070abf3a12.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesPendentesPorArea Method " Url="html/75a8c66e-c2cd-661c-0ab0-71f3fbf91e7d.htm" />
+        <HelpTOCNode Title="BuscarPorRequisitante Method " Url="html/25f2d69f-77b5-213c-3a47-2cd29847261f.htm" />
+        <HelpTOCNode Title="BuscarPorRequisitantePorArea Method " Url="html/c7fcec7f-7752-1200-fc52-53e1ecce8eda.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/2f2a9318-14dd-027f-9cd0-c4144669edca.htm" />
+        <HelpTOCNode Title="BuscarPorSituacaoPorArea Method " Url="html/808ebba0-f06a-d52c-b01e-368c5649afb0.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/6cc1b439-ea7e-e5d1-a77f-e088cf949a1f.htm" />
+        <HelpTOCNode Title="BuscarPorUsuarioPorArea Method " Url="html/c003eb2a-79c6-3044-5ead-2507e8c3f7ee.htm" />
+        <HelpTOCNode Title="BuscarTodasRequisicoes Method " Url="html/0cf390fc-857c-4106-6fc9-a60afd3266c8.htm" />
+        <HelpTOCNode Title="BuscarTodasRequisicoesPorArea Method " Url="html/b0a1b471-69b1-902d-8c78-feeccba564bd.htm" />
+        <HelpTOCNode Title="BuscarUltimaRequisicaoCadastrada Method " Url="html/9a6d5912-6795-9dbf-023e-5ee77a75ba18.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/6ee31802-9cdb-9743-e700-da0174441cd8.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/db341abb-4b44-e37c-e820-fb80f4a44724.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/933bb0db-6260-aac7-f8ce-45d6c3f413f3.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/46d213f2-92b5-a690-269f-b167cb4ccd1b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="97b54a96-380a-496a-a4a9-e46de6fc8b92" Title="RequisitanteBO Class" Url="html/1ac243c4-9b9d-d2dc-7813-bc5a6c184f98.htm">
+      <HelpTOCNode Title="RequisitanteBO Constructor " Url="html/46fc7c41-f099-fe0e-6475-185de6c3e94d.htm" />
+      <HelpTOCNode Id="5b1dc732-4e68-4b16-aea6-b0772ffe646f" Title="RequisitanteBO Fields" Url="html/5333b11c-503b-00d0-e14f-d89b023d03e5.htm">
+        <HelpTOCNode Title="listaRequisitante Field" Url="html/6fba4f69-b45a-3dca-029e-b4135c07fca2.htm" />
+        <HelpTOCNode Title="requisitante Field" Url="html/1a5c3588-0ac1-58a5-7b08-b435bc1ea80d.htm" />
+        <HelpTOCNode Title="requisitanteDAO Field" Url="html/c6080036-d782-f27a-798d-50ae9c345c41.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2fcd4648-7691-4b0a-8f13-6deebba16694" Title="RequisitanteBO Methods" Url="html/0a97dcea-0822-2c57-9c26-6267acda1f73.htm">
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/995a6cc6-183a-b07f-24ff-671b70e1dd98.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/5d919636-e36f-1e48-f115-d07dbfeb8dbb.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/c63d824a-0766-fa03-14c8-dbd761042b02.htm" />
+        <HelpTOCNode Title="BuscarTodosRequisitantes Method " Url="html/2ed7b1ce-6cd4-3324-6bca-ecd9c3024701.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/27bba59d-3fc2-0833-3f36-63c8da54dbfc.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/887c51b7-42c3-9ce6-a32c-fd3ffae1f207.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/78705031-fb9e-9584-61bd-8a7b88b47ca5.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/06793238-cd00-309c-a440-bb9d2121cca2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3f8445f3-5094-469c-a4bd-dd8285d6bbf6" Title="SaidaMaterialBO Class" Url="html/746941c2-085f-e136-907b-89a397b2c419.htm">
+      <HelpTOCNode Title="SaidaMaterialBO Constructor " Url="html/023d76ca-542f-8cd7-eae2-582102762048.htm" />
+      <HelpTOCNode Id="024f220b-1aec-49f9-816c-7d298de501c4" Title="SaidaMaterialBO Fields" Url="html/40d28280-ee1d-88d0-a334-7dde00e1d1d2.htm">
+        <HelpTOCNode Title="listaSaidaMaterial Field" Url="html/5bd8d8cf-7b48-840c-e5b9-73b6d6991b8f.htm" />
+        <HelpTOCNode Title="saidaMaterial Field" Url="html/70c2e9b1-b47e-0171-f876-10d600b95457.htm" />
+        <HelpTOCNode Title="saidaMaterialDAO Field" Url="html/de49a569-b378-bdb9-570d-e74989ed2eee.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f91fdec9-7ce9-4573-94e4-5c7ec6e44027" Title="SaidaMaterialBO Methods" Url="html/a9c4c247-9ce6-f85c-44be-9361e3595c71.htm">
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/45a26138-a055-fd4b-1a6c-93654762b2de.htm" />
+        <HelpTOCNode Title="BuscarPorRequisitante Method " Url="html/3fa98bac-75a4-82b4-cb6e-0f42e36f6dfa.htm" />
+        <HelpTOCNode Title="BuscarPorSaidaData Method " Url="html/172ba72e-2443-50ae-29a1-5a8b8418d332.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/84713e7c-abf6-d125-4acc-424dc02bffb9.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/7cb43aa6-0203-b8ea-f236-1f690d0fdd43.htm" />
+        <HelpTOCNode Title="BuscarSaidaDataPorBetween Method " Url="html/ee607045-e5c8-1bcd-7d43-b6d3d33e3d07.htm" />
+        <HelpTOCNode Title="BuscarSomatorioSaidaMaterialPorConta Method " Url="html/d05d094b-4a28-64a9-a56d-e4db2e14bb8e.htm" />
+        <HelpTOCNode Title="BuscarTodasSaidasMaterial Method " Url="html/8f34b706-dccd-22b0-3066-e8454aa52d9b.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/a100f326-5f78-d6e3-ba6c-af2dcf57c402.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/6a983429-cb4a-c006-2ed8-bcbbe0b6b75e.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/6b62247b-9e9c-fc83-0f4b-348360583459.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/4d15e4cb-0d0b-ded5-c6ef-6805d65a3da0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6a8291fd-f255-428e-b44f-8f4218f289de" Title="SituacaoBO Class" Url="html/4cb82597-e0ca-73fb-76c9-2e4e7b62d06f.htm">
+      <HelpTOCNode Title="SituacaoBO Constructor " Url="html/1411f3dd-194d-168a-5567-e4258ef94d00.htm" />
+      <HelpTOCNode Id="e5418c6f-9a9a-45f4-aa8f-5b17b55859cf" Title="SituacaoBO Fields" Url="html/64e72c06-262f-345b-7c92-c07ab07df396.htm">
+        <HelpTOCNode Title="listaSituacao Field" Url="html/1a3df91c-8f22-e8a0-9c4c-4e2f130ada2d.htm" />
+        <HelpTOCNode Title="situacao Field" Url="html/b056d676-e554-b7c8-12d7-87dd9fd0e90a.htm" />
+        <HelpTOCNode Title="situacaoDAO Field" Url="html/406d2839-a08d-c720-da8a-a09f260b5660.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b10ca97b-d258-439c-a89b-0bfb2cd8473d" Title="SituacaoBO Methods" Url="html/675641c6-f807-f9d6-b370-a117cf52c311.htm">
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/5028f874-3769-dcf0-b6d2-834443cb0903.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/2449c072-f818-c444-33c2-6cfdb328d9e8.htm" />
+        <HelpTOCNode Title="BuscarTodasSituacoes Method " Url="html/d6022c2f-3279-dd61-fb22-fc9cbc56f731.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/08c9f403-a42d-5661-7eeb-844af77d6df7.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/0d93767e-4c69-4893-2bce-9b0be78ee33e.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/782151f4-365f-10a3-04c3-4c9892cbbfac.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/149e425a-1fec-4184-dfc8-b1890a29957d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e50e9cdc-4cd8-4679-bb1c-b291e1e220a7" Title="UnidadeBO Class" Url="html/9e424c1b-a6a7-7934-e2b9-c3350101c806.htm">
+      <HelpTOCNode Title="UnidadeBO Constructor " Url="html/6b56b736-ccd4-cc13-f990-517c0b26fa5e.htm" />
+      <HelpTOCNode Id="d0c3be87-4e1e-40e1-ae70-3dc17401a312" Title="UnidadeBO Fields" Url="html/94d73d3b-3683-93a3-fb8c-36bed06e4f2f.htm">
+        <HelpTOCNode Title="listaUnidade Field" Url="html/361b1e70-de11-4afd-a4e1-d421c7dde54d.htm" />
+        <HelpTOCNode Title="unidade Field" Url="html/1d01ab77-2e6d-989f-0391-98cbbe0b8619.htm" />
+        <HelpTOCNode Title="unidadeDAO Field" Url="html/f00be7da-277c-3602-fcf8-114510280aea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="15bcde71-3e73-422e-b27b-8521048ad36a" Title="UnidadeBO Methods" Url="html/39776c49-d54b-15b4-366d-fa63961755ca.htm">
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/58b938f8-5baa-c8a3-6da6-81b875edda13.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/5516f7cf-6efa-14ce-3e2d-12d3a9767425.htm" />
+        <HelpTOCNode Title="BuscarTodasUnidades Method " Url="html/1f489faf-a374-7690-fc37-29641698249a.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/c767b9f3-9316-3d7c-19ac-4fd3464e4da3.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/4b06348f-86e8-4160-6e4a-8979717c531a.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/11cd67f7-f028-d28a-0b0e-7956d41cb31e.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/dee0a4ff-77d5-9408-d7fd-82ca2191b60c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2b11f6ae-5f50-4d99-b4c9-1dab2c86c8e9" Title="UsuarioBO Class" Url="html/f8cbf3ad-b813-6e56-f355-7d6f72001d09.htm">
+      <HelpTOCNode Title="UsuarioBO Constructor " Url="html/2db2ac2a-3125-907a-8844-f7120f6c1189.htm" />
+      <HelpTOCNode Id="d409f5ab-a326-471b-bef9-2cf5c9f2388a" Title="UsuarioBO Fields" Url="html/da0f26a8-d6b9-b289-ab4c-94186c804650.htm">
+        <HelpTOCNode Title="listaUsuario Field" Url="html/b873436b-919f-985c-05d2-4c90345df913.htm" />
+        <HelpTOCNode Title="usuario Field" Url="html/9f363dca-0003-6616-87e1-d3439fa1a85a.htm" />
+        <HelpTOCNode Title="usuarioDAO Field" Url="html/84f0e543-b210-119f-3326-3f9cfc900327.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e92220fc-4765-4475-9888-72e8b0d1c398" Title="UsuarioBO Methods" Url="html/f7bf08a4-4e27-92f7-5c0d-3168bf0ebe67.htm">
+        <HelpTOCNode Title="AtualizarUltimoAcessoData Method " Url="html/945d9226-f7f6-de70-4655-75293ea8ed84.htm" />
+        <HelpTOCNode Title="BuscarPorCpf Method " Url="html/3e087a30-b935-6bba-d5c9-d7e2614567f2.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/ff5f1577-e4cb-582e-eadc-eb4c3924cffc.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/1ac49137-f469-bc3a-a129-d0f9334227ed.htm" />
+        <HelpTOCNode Title="BuscarPorNomePorArea Method " Url="html/d7bd6880-eec3-2a55-1237-2ae89f5eb9cb.htm" />
+        <HelpTOCNode Title="BuscarTodosUsuarios Method " Url="html/e4f8c785-0125-f49a-1fac-84ab3fe2fcbc.htm" />
+        <HelpTOCNode Title="BuscarTodosUsuariosPorArea Method " Url="html/317170e1-6a9f-c89a-85f6-39033244308b.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/bca5a65a-6628-54dd-24f7-8f66abf850a7.htm" />
+        <HelpTOCNode Title="Logar Method " Url="html/b12893ef-3d89-81d1-f185-0e5340474c1d.htm" />
+        <HelpTOCNode Title="RedefinirSenha Method " Url="html/028d676d-5ea8-cf5e-2cec-15bdb2ab81d2.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/5e933658-de41-53ce-34fd-eb147fa551de.htm" />
+        <HelpTOCNode Title="ValidacaoExcluir Method " Url="html/99fbe440-1d7f-c8c7-9142-06d6da113578.htm" />
+        <HelpTOCNode Title="ValidacaoLogin Method " Url="html/0076b6b0-5da8-eb3b-c832-9a95453f9daf.htm" />
+        <HelpTOCNode Title="ValidacaoSalvar Method " Url="html/04a52ee1-fa73-d243-3a56-65f79db700a7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="50848eac-5efd-472e-a9f5-60e41adae072" Title="CamadaNegocio.DAO" Url="html/6967b9ea-8ca4-e466-cc89-933e9264ca97.htm">
+    <HelpTOCNode Id="66053cf5-e2f3-4691-89a0-e66de4b5cb64" Title="AreaDAO Class" Url="html/d8afc2bd-34b6-37f4-65fc-34f9c67d8574.htm">
+      <HelpTOCNode Title="AreaDAO Constructor " Url="html/1d612877-ce7e-0df8-06dd-4d84ce84851c.htm" />
+      <HelpTOCNode Id="43d46f9b-a5bc-4ddb-9676-17ab7a59e2be" Title="AreaDAO Methods" Url="html/9f202eb0-e330-7dde-d3fd-269bca4aca81.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/5e595e39-79dc-bd64-9b5d-fc44c150dcac.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/edbee834-dac6-5036-451c-02d111ba8b5e.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/020ba4a3-b98b-c23c-4412-9b8546f820c9.htm" />
+        <HelpTOCNode Title="BuscarTodasAreas Method " Url="html/6f9ac41a-6025-c982-9c68-ab825ab54aa5.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/9d5bb1a4-f65b-7b07-171b-f2831ea9164d.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/8694e1f2-0688-4af1-f8d5-ae44daf86ea0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dc4e3ec0-b193-4101-bd05-21be392ceeec" Title="CentroDeCustoDAO Class" Url="html/a5941eda-a302-2f48-253e-e719b65ee178.htm">
+      <HelpTOCNode Title="CentroDeCustoDAO Constructor " Url="html/e082949a-12a4-60d1-d903-8741433a6f84.htm" />
+      <HelpTOCNode Id="d7db4217-f120-4148-a9cf-8ad3ea402629" Title="CentroDeCustoDAO Methods" Url="html/40824529-f86d-566e-0132-b4224c27c175.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/10e22aca-eb0e-9075-3deb-fbda896f8641.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/be7f9811-d2fa-c75e-e043-b19e11a50364.htm" />
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/8926590a-d917-416f-90e9-7690545b6c2f.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/8c7db903-ea3e-11ef-8570-48bbc6f37c7e.htm" />
+        <HelpTOCNode Title="BuscarTodosCentrosDeCusto Method " Url="html/3bafa110-56ef-74e1-fa1f-bef7351f88d8.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/832f227a-b98d-98e4-e55a-883d44e03756.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/af0bbc0f-fca3-44c4-5fad-6fe5c6f3c174.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3cecfc1a-7612-49fc-9139-67584da0a04b" Title="Conexao Class" Url="html/806d1c62-fc64-d390-b0f6-4ade686cc039.htm">
+      <HelpTOCNode Title="Conexao Constructor " Url="html/30035d55-b962-830b-43dc-73a91a9c5ada.htm" />
+      <HelpTOCNode Id="b24561c8-5c4b-4c31-9320-a5dfc8157f84" Title="Conexao Methods" Url="html/4ccc390a-5ef4-278d-65fb-85dab8d52bdb.htm">
+        <HelpTOCNode Title="conectar Method " Url="html/9a1d3c3c-89d6-bb0f-8f01-04b50cc1ab71.htm" />
+        <HelpTOCNode Title="manterCrud Method " Url="html/2f30bc1f-5dfe-689e-60be-0cb0ef02b3f5.htm" />
+        <HelpTOCNode Title="manterCrudRetornaID Method " Url="html/5cf00be6-ad3a-81fb-c073-4d91943ed5e3.htm" />
+        <HelpTOCNode Title="selecionar Method " Url="html/5a2b0434-2197-40c1-039c-7cdf63343a84.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5fd0392d-16f9-4a54-9e25-870960c03152" Title="ContaDAO Class" Url="html/12d8408f-6037-4cb8-3bb3-245e3e9e16f4.htm">
+      <HelpTOCNode Title="ContaDAO Constructor " Url="html/261ff7e6-0d10-2ffa-264b-c532f30fdb59.htm" />
+      <HelpTOCNode Id="6dbe7c68-7687-4785-a788-2bfaa29d5496" Title="ContaDAO Methods" Url="html/87d79cb5-c095-7569-e659-8f62d6113812.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/cad4f43f-c769-36ad-96fa-6d7e49ba759d.htm" />
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/ac235193-160d-0f9c-1235-86df197d008f.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/b2bb8b11-bd68-f12d-36ce-f392d25de817.htm" />
+        <HelpTOCNode Title="BuscarPorNumero Method " Url="html/405f22fa-3890-03cc-9f77-76892f2c7383.htm" />
+        <HelpTOCNode Title="BuscarTodasContas Method " Url="html/7bd5c1c2-ca98-bf7b-2ff0-d137b85cd326.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/2dd27f2b-64f4-dc04-b953-0245acbcfeb6.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/c0870b24-d825-80f9-9d00-4f6b43b5bfdf.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8393962c-7ea1-4e0f-8251-017df6194aad" Title="EnderecoDAO Class" Url="html/a1ee79dc-f633-df38-a8f0-1082fc2598cc.htm">
+      <HelpTOCNode Title="EnderecoDAO Constructor " Url="html/5fb142ef-39a8-4241-ce81-7e9b274b3c11.htm" />
+      <HelpTOCNode Id="74350281-3c3d-4ce2-93d6-98a170ac2b16" Title="EnderecoDAO Methods" Url="html/51e30e6e-880b-1dad-745e-5f54b0b051cb.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/2967eb82-635f-cd0a-53c1-35e1566a9158.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/3c9d65c3-ee9a-1748-ec1e-936b35513704.htm" />
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/605505f0-a9a8-80ab-e4ca-673c5a0e2252.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/cde0b1ae-58fb-159c-e53c-db4d94198451.htm" />
+        <HelpTOCNode Title="BuscarTodosEnderecos Method " Url="html/397e5b6d-d1b3-36b6-cc27-55b63ba5ec89.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/6d6f1a1a-d758-f075-077d-8a8ce02eb683.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/bec8c5d9-494e-a7c0-4fde-74c5a3c65f36.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c92b8259-13c1-4a2b-94ef-56eac36c4d6d" Title="EntradaMaterialDAO Class" Url="html/20514031-f107-e2c6-465e-f9b85d101f51.htm">
+      <HelpTOCNode Title="EntradaMaterialDAO Constructor " Url="html/5acda6c8-ac4c-b61b-f7c0-6c689ebac1a0.htm" />
+      <HelpTOCNode Id="3c2ef780-d2c5-4403-8332-28383c95957f" Title="EntradaMaterialDAO Methods" Url="html/513616e2-f9e7-3b80-46d4-b854e711e713.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/4f342bf8-12dd-2933-cf9a-4a4555421e2d.htm" />
+        <HelpTOCNode Title="BuscarEntradaDataPorBetween Method " Url="html/964fff84-13d5-88b3-74eb-075956a09e46.htm" />
+        <HelpTOCNode Title="BuscarPorEntradaData Method " Url="html/24e2c01a-e697-772b-0fe4-e0f72375a34c.htm" />
+        <HelpTOCNode Title="BuscarPorFornecedor Method " Url="html/0f4ff442-d346-34e5-7a19-40c458879c85.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/1d523085-8e02-dd99-b750-64ac99e668ee.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/6c70fadd-a9ce-6ab3-b8f7-68cb65b48727.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/5060ebaa-4a60-54b0-a564-b7ed0c4a5d81.htm" />
+        <HelpTOCNode Title="BuscarTodasEntradasMaterial Method " Url="html/f9673341-dd45-6e6a-450a-fd4d4513f882.htm" />
+        <HelpTOCNode Title="BuscarTodasEntradasMaterialComItens Method " Url="html/76f619b5-3242-e600-98a9-c014597bf00d.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/99d480b9-645c-cf1b-bb12-4aa18d73eb6e.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/d4f26c8a-cbfa-a1e5-5004-12441947da14.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="691711c9-8786-47f3-a348-53a1ca6b4075" Title="FornecedorDAO Class" Url="html/0a55f192-2537-bdd7-3923-ee25e028c8dd.htm">
+      <HelpTOCNode Title="FornecedorDAO Constructor " Url="html/b2068934-427c-5a1f-2325-534048a95772.htm" />
+      <HelpTOCNode Id="0c40646b-1655-4501-8b2e-6f662f8724ef" Title="FornecedorDAO Methods" Url="html/a8bd4a87-f6e8-8d9e-b3c9-5f50bd86ca61.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/13f1be8c-423a-fc69-9419-1369948bab33.htm" />
+        <HelpTOCNode Title="BuscarPorCnpj Method " Url="html/f580e9bc-689f-5843-75af-aff9429c1c89.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/6978923a-0718-5484-17d2-b09aa0be5bc6.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/cc2e6028-1b9f-c61a-e04f-4494ef67dcec.htm" />
+        <HelpTOCNode Title="BuscarPorRazaoSocial Method " Url="html/b7372771-be14-700a-3666-d21441bd2353.htm" />
+        <HelpTOCNode Title="BuscarTodosFornecedores Method " Url="html/1c790262-e240-63de-34a2-cf731cc90292.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/c8bff896-0bb3-58dc-6ccf-3deee290e4d4.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/93fe46c9-df52-7ad5-a191-4b049bdc0bad.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c7ab3cd1-615b-4e86-9e48-b98dce572169" Title="ItemEntradaMaterialDAO Class" Url="html/318f8123-132c-cc20-a63c-64d880a311a8.htm">
+      <HelpTOCNode Title="ItemEntradaMaterialDAO Constructor " Url="html/13faffdc-44f0-feaf-bda7-90030948e5ad.htm" />
+      <HelpTOCNode Id="3d11890b-773a-4d6e-b3f7-46da1f7baa3f" Title="ItemEntradaMaterialDAO Methods" Url="html/b61c5268-c1ad-6c14-d424-4dd273df4d47.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/b312957d-38ea-7d0d-b62a-b05aa12259b9.htm" />
+        <HelpTOCNode Title="BuscarItensDaEntradaMaterial Method " Url="html/96cfc345-d617-51f9-3312-62f107e13385.htm" />
+        <HelpTOCNode Title="BuscarItensDaEntradaMaterialPorData Method " Url="html/92da8fae-4ecf-ca25-f38b-ea0e7636b473.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/69940a0e-e274-bbfc-cdf6-8c7a4fbc0239.htm" />
+        <HelpTOCNode Title="BuscarTodosItensDaEntradaMaterial Method " Url="html/b15a73bc-b757-2435-5d4a-f6564304b039.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/ae73a01d-1ac7-e51e-cdaa-84d38fc608b6.htm" />
+        <HelpTOCNode Title="ExcluirItensDaEntradaMaterial Method " Url="html/18e5752c-72c5-9a23-95f1-9e4c31c96ed9.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/ea174be8-9079-dd38-8105-e1e64d8ac6b4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2c6a4cff-f553-48c4-8ff2-e8a22ba741bc" Title="ItemLicitacaoDAO Class" Url="html/feefd995-2521-bb63-797f-c79c25dbf2af.htm">
+      <HelpTOCNode Title="ItemLicitacaoDAO Constructor " Url="html/853805a4-7b1c-2d4e-7616-8e551c9d40f7.htm" />
+      <HelpTOCNode Id="b25a832e-f3a4-4b6a-8877-fa332997b174" Title="ItemLicitacaoDAO Methods" Url="html/73509992-e204-5112-4457-9fe873818cf0.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/68d3ba44-daa1-c1c8-a105-e0956494715a.htm" />
+        <HelpTOCNode Title="BuscarItensDaLicitacao Method " Url="html/a3299c8e-873c-4413-8544-cca796e2d10e.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/c39e5b44-5b4e-b508-54b9-341db7a7d53a.htm" />
+        <HelpTOCNode Title="BuscarProdutoDoItemLicitacao Method " Url="html/fce18cb8-24e5-f6ad-1c7f-8984531e72f6.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/b23370c1-0943-f19c-94ed-a43cc5d1dfb3.htm" />
+        <HelpTOCNode Title="ExcluirItensDaLicitacao Method " Url="html/4d060164-8b80-d94a-0e22-0b506e4bf14b.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/92ea3ef7-b220-9b4b-22f3-1f12ea574e37.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6eaaa071-382d-46fb-9457-5aafee5df6ab" Title="ItemRequisicaoDAO Class" Url="html/bcef1f76-0fbd-4335-6bd7-5cc13a3e2cda.htm">
+      <HelpTOCNode Title="ItemRequisicaoDAO Constructor " Url="html/06740076-03aa-8e43-0a7e-492220a24810.htm" />
+      <HelpTOCNode Id="012e17cb-b6a5-4700-b393-d91c6b83577c" Title="ItemRequisicaoDAO Methods" Url="html/a2bdb3df-8205-007a-98aa-06c526b0ace4.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/ce652930-a5ed-08a0-192a-9913ec5b03c2.htm" />
+        <HelpTOCNode Title="BuscarItensDaRequisicao Method " Url="html/722f818c-1c08-2ff6-237c-641c97a9e81d.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/40944b03-860c-11a0-dd36-61d1c91fe6ba.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/68ae8bed-db40-0f72-fd88-d9651bcacf14.htm" />
+        <HelpTOCNode Title="ExcluirItensDaRequisicao Method " Url="html/8ef646af-c915-13e8-fc87-b5350e57e23d.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/8525816b-77f4-2396-ec10-8613b6fc563d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7ddcf356-2102-47df-bd34-f67ed86ac738" Title="ItemSaidaMaterialDAO Class" Url="html/3ab4a115-f9f5-acfb-af72-68809bdc8550.htm">
+      <HelpTOCNode Title="ItemSaidaMaterialDAO Constructor " Url="html/4f2722a3-babc-2d0e-e87b-40c4d17d11c3.htm" />
+      <HelpTOCNode Id="5ee40dc4-a68a-47c6-abfc-cd358d205e09" Title="ItemSaidaMaterialDAO Methods" Url="html/cdaae026-5717-c402-612f-0b04c44cab7a.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/d48af661-3b5f-4525-b45e-19c3f3ebdb77.htm" />
+        <HelpTOCNode Title="BuscarItensDaSaidaMaterial Method " Url="html/286b7d5b-51fd-3787-8f6e-3c97b33ed0fe.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/cbbdbb18-12be-c67c-0ef4-6f34981cb1cd.htm" />
+        <HelpTOCNode Title="BuscarTodosItensDaSaidaMaterial Method " Url="html/fabfc5d5-1694-9fc3-4bdd-550bf3ec80b9.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/a2d0eaed-1dae-51c5-a79c-02deebbbbfbb.htm" />
+        <HelpTOCNode Title="ExcluirItensDaSaidaMaterial Method " Url="html/be58482a-62e5-558a-bd15-cc88282f850c.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/db8fbd28-74af-a837-971c-87ceab014f59.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4203435-a861-4fb4-bda9-4e4faaa47965" Title="LicitacaoDAO Class" Url="html/909828ea-fc07-0983-f82a-90c4b8f6c106.htm">
+      <HelpTOCNode Title="LicitacaoDAO Constructor " Url="html/9054e492-7002-c64b-6355-16acf8e3582e.htm" />
+      <HelpTOCNode Id="60021053-39c6-4070-b24b-aba74c93a5c6" Title="LicitacaoDAO Methods" Url="html/a3fa9d04-b962-0d16-950e-3bcde28e8747.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/dafb2499-c30e-84bb-65ec-41020f2e2463.htm" />
+        <HelpTOCNode Title="BuscarDataCadastroPorBetween Method " Url="html/78f0a561-05c6-8ff3-c71b-4155e522db8e.htm" />
+        <HelpTOCNode Title="BuscarPorDataCadastro Method " Url="html/6ee115b0-0695-b896-5a63-07c2fa65766d.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/2cf1cdf7-a514-53e1-b7a6-c4c82db251a5.htm" />
+        <HelpTOCNode Title="BuscarPorModalidadeCompra Method " Url="html/1a3a5e41-54de-731e-793c-98e86bf92622.htm" />
+        <HelpTOCNode Title="BuscarPorProcesso Method " Url="html/aebe41fb-bedc-0cf0-bb26-578e19f967d9.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/6969bfde-f389-bf32-9593-8e4eea0da2c6.htm" />
+        <HelpTOCNode Title="BuscarPorUltimaLicitacao Method " Url="html/1fa4c0c3-e894-8701-947d-8db52d0ae4d3.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/bc360365-a8d6-6391-e553-a36818a80c29.htm" />
+        <HelpTOCNode Title="BuscarTodasLicitacoes Method " Url="html/831c6539-9bab-e2f2-844a-931f22ae1776.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/bd2f2c45-0b55-e61a-6ea0-d72c7d8f20af.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/3f8b71ec-343e-cf02-f327-56ab240efaf0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe174c78-6cc9-4688-8a56-5f941f96df04" Title="NomeProdutoDAO Class" Url="html/630c7d66-1e99-d411-6cbd-5b582e48165e.htm">
+      <HelpTOCNode Title="NomeProdutoDAO Constructor " Url="html/1d2294dc-1dbb-f13c-f97a-d6f9451a6a71.htm" />
+      <HelpTOCNode Id="3eece57f-3c96-46f7-9274-77cd9a039aa9" Title="NomeProdutoDAO Methods" Url="html/8ea5573d-52be-e63c-a4ff-19bef7b87588.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/841dcb8d-ad02-2e1d-9ff3-79336eee31c9.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/4cee860b-e234-63ca-89ea-8d2a8abde52a.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/015c30b9-5783-c4e6-8de0-a49500caec06.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/627e2d55-3c29-05bb-3455-76aac6b7339c.htm" />
+        <HelpTOCNode Title="BuscarTodosNomesProdutos Method " Url="html/fde0e2a6-29ab-d65d-c5ff-540a61b9d629.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/cd69f031-168d-c228-c177-f381b38de100.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/2e73c83c-1216-bd6f-e91f-304a0a2307f5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a015dc15-9ac8-4f14-8298-59fabc3c596f" Title="ProcessoDAO Class" Url="html/96e45a8f-00c8-8d7a-a2c7-a0a794c51c60.htm">
+      <HelpTOCNode Title="ProcessoDAO Constructor " Url="html/ce72f0d5-3598-5280-eeec-1be78c643460.htm" />
+      <HelpTOCNode Id="2e35b850-f282-4a89-a56f-ae1cedbe956b" Title="ProcessoDAO Methods" Url="html/fa51a445-67bf-aa3b-5f70-5ca78fa3ee7f.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/b6850953-0319-0278-208c-b55b700e9018.htm" />
+        <HelpTOCNode Title="BuscarPorData Method " Url="html/641f2f1e-5796-11f7-f264-d4386726eb5b.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/e7cebd8c-8f09-64d8-6e28-612683bc0995.htm" />
+        <HelpTOCNode Title="BuscarPorNumero Method " Url="html/30fd76c9-2f93-15f3-9144-208f087949e0.htm" />
+        <HelpTOCNode Title="BuscarTodosProcessos Method " Url="html/56c38d18-359e-355a-3f24-3fb0406aad31.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/d1fa589f-67f3-fe5b-826e-f90920137350.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/c1ca4977-c39b-c421-1ad9-ed8259504753.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6700f006-cc0f-4fe5-a1fc-189b13174493" Title="ProdutoDAO Class" Url="html/64af7f4a-dd3f-a732-a384-149802034e05.htm">
+      <HelpTOCNode Title="ProdutoDAO Constructor " Url="html/a147c525-500e-09d5-c7cf-b4e508b249ae.htm" />
+      <HelpTOCNode Id="ee97ecf9-5146-4aac-a7b8-51c343e5a137" Title="ProdutoDAO Methods" Url="html/7dc94660-76ed-59f4-8fd0-e1cd28c770eb.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/50474fa3-7454-6b84-8226-39e63072d2db.htm" />
+        <HelpTOCNode Title="AtualizarQtdeEstoquePorCodigoProdutoEntrada Method " Url="html/bb0a66de-f968-4eaf-b985-90c231c9532d.htm" />
+        <HelpTOCNode Title="AtualizarQtdeEstoquePorCodigoProdutoSaida Method " Url="html/d2839ba4-68aa-99f6-ff3a-569dec48ff3d.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/7f848fb3-b92a-1b31-6c6e-1688c7eae5d3.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/f1576d1e-95fb-3588-6418-907d605dbd35.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/ca36db1e-3777-a14c-efca-6f1dbf12014e.htm" />
+        <HelpTOCNode Title="BuscarPorPrecoUnitario Method " Url="html/bb9430c6-f568-071a-f641-9d0f07e4527c.htm" />
+        <HelpTOCNode Title="BuscarPorUltimoProdutoCadastrado Method " Url="html/343bda52-b0ee-7b41-e236-23fe408434ab.htm" />
+        <HelpTOCNode Title="BuscarTodosProdutos Method " Url="html/8dece1c3-8580-7486-1f14-1a399d9f15a9.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/42108564-dc57-62ed-2d0b-76ce2b86e783.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/ca3e6f52-1ad3-0949-e0fb-561e0686feec.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ac03864-3494-48b5-9608-3f34bd8fa629" Title="RequisicaoDAO Class" Url="html/a1582cc9-948f-a620-c5a7-2bef2395f139.htm">
+      <HelpTOCNode Title="RequisicaoDAO Constructor " Url="html/6e643d2d-9d98-c90c-07e6-d2a51e21aeb6.htm" />
+      <HelpTOCNode Id="5e418701-8c58-43fc-a554-c5b8707b42bc" Title="RequisicaoDAO Methods" Url="html/66958b17-5227-c434-7cac-0177da5503bc.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/cb359cc0-2b08-4c14-b22f-6ee57aee1169.htm" />
+        <HelpTOCNode Title="BuscarDataCadastroPorBetween Method " Url="html/34135196-2bac-200a-e70f-a787c1befb53.htm" />
+        <HelpTOCNode Title="BuscarDataCadastroPorBetweenPorArea Method " Url="html/16ce763a-3f2b-b172-ac28-3c9a0db4d572.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/a09d2ae2-5984-5bef-1f69-8dee6e5dd5d6.htm" />
+        <HelpTOCNode Title="BuscarPorCodigoPorArea Method " Url="html/4df3e560-89e1-61ad-e3d2-a350a156593e.htm" />
+        <HelpTOCNode Title="BuscarPorDataCadastro Method " Url="html/764b866b-a5dc-20cf-006a-c017ed7353aa.htm" />
+        <HelpTOCNode Title="BuscarPorDataCadastroPorArea Method " Url="html/0e7a9fca-ec16-3750-836e-30d0a94136b3.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/b49907c7-a068-bf88-24e3-3bc1051f9402.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesAbertasOuPendentes Method " Url="html/5c6ac73e-58fc-4e0f-0997-4d53d1a1c17b.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesAbertasOuPendentesPorArea Method " Url="html/ee1885f8-0e37-b009-fc4b-662194c04f3c.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesEmAberto Method " Url="html/d452c1f6-6d50-a4cc-f12b-2320809a83a6.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesEmAbertoPorArea Method " Url="html/b363751c-5a77-4b12-c7c2-3107e31add79.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesFinalizadas Method " Url="html/b08b4d12-c369-a0e1-6fa6-b83f7f7c525f.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesFinalizadasPorArea Method " Url="html/2685a5b3-020a-de65-3764-cc58b60e5bd1.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesPendentes Method " Url="html/a8221442-ced7-ca23-499f-76cf1c3f8e00.htm" />
+        <HelpTOCNode Title="BuscarPorRequisicoesPendentesPorArea Method " Url="html/9f8af249-0de3-ee37-0967-e838c52c96c7.htm" />
+        <HelpTOCNode Title="BuscarPorRequisitante Method " Url="html/2f20f4ad-5298-3ff3-9711-1c6515aeffdc.htm" />
+        <HelpTOCNode Title="BuscarPorRequisitantePorArea Method " Url="html/9b6aeef0-a5c0-090f-8e9b-ce012a677bb3.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/2d7cf0fc-7391-280b-7e91-5ccb957a6ff2.htm" />
+        <HelpTOCNode Title="BuscarPorSituacaoPorArea Method " Url="html/adb22458-af51-d626-5473-719b0f8115c1.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/b6f48d4d-cc33-8549-2ad7-dcde12f226e6.htm" />
+        <HelpTOCNode Title="BuscarPorUsuarioPorArea Method " Url="html/e8ad075d-63ea-0652-1353-05e1aa253f10.htm" />
+        <HelpTOCNode Title="BuscarTodasRequisicoes Method " Url="html/ec68900c-32a8-77c5-79fd-d96ac565c0ce.htm" />
+        <HelpTOCNode Title="BuscarTodasRequisicoesPorArea Method " Url="html/1769b462-8793-e039-e290-2cbcf25dd980.htm" />
+        <HelpTOCNode Title="BuscarUltimaRequisicaoCadastrada Method " Url="html/208ce2e3-f253-5b8f-2084-c611c27e40a1.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/0842ce17-8d53-13e5-b82d-2d6a719810e9.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/be2cce07-2396-dc55-35b4-29e8ad528bea.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ee5404c-8d0c-4fb5-a564-aaa5a0449069" Title="RequisitanteDAO Class" Url="html/d0344373-a2f0-9eb1-6351-d8bf0becd454.htm">
+      <HelpTOCNode Title="RequisitanteDAO Constructor " Url="html/0107865d-7199-32d2-482f-1243da6c438f.htm" />
+      <HelpTOCNode Id="2b330110-f73f-49e9-bd1c-d3b62254de53" Title="RequisitanteDAO Methods" Url="html/3edd59aa-5905-b429-a0f4-38e7ea5e7567.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/eb01ae5e-26b3-8a5b-8630-bb5c19400f8f.htm" />
+        <HelpTOCNode Title="BuscarPorCodigo Method " Url="html/fb468d1a-5f9a-a45e-2a02-425d6319bd87.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/bda850bd-e394-95a2-8b2c-e30b7a310ac2.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/448dde38-342e-8579-2f0b-5645acd5d16e.htm" />
+        <HelpTOCNode Title="BuscarTodosRequisitantes Method " Url="html/b3304783-c59c-1a1b-4217-dc82c1c70648.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/8cf0d922-ece7-47f4-4ff8-dcd4c5f3e712.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/5a3e3850-e77c-67f8-798a-caa125b143c6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4b7e1f08-6a0b-44e1-a05a-34a7fafc6a72" Title="SaidaMaterialDAO Class" Url="html/8dcd972c-c162-2acc-5ce8-a66b9ab159b3.htm">
+      <HelpTOCNode Title="SaidaMaterialDAO Constructor " Url="html/7e5b920c-f54b-af1d-cbcf-02562ce0e567.htm" />
+      <HelpTOCNode Id="bcd4183f-8436-4c07-8c97-a17dbf5212b3" Title="SaidaMaterialDAO Methods" Url="html/f07d0328-77d6-7379-9dd4-6c4b32055dee.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/a72d3be2-4978-2588-b9df-bd62c4a913e8.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/cf9bc663-197d-595d-b8b1-ee70ba3bf74e.htm" />
+        <HelpTOCNode Title="BuscarPorRequisitante Method " Url="html/7a465c95-9fda-d919-218e-062580efdde7.htm" />
+        <HelpTOCNode Title="BuscarPorSaidaData Method " Url="html/1b6a6851-e6ad-3a2e-d1d1-19aa81d1281d.htm" />
+        <HelpTOCNode Title="BuscarPorSituacao Method " Url="html/b37513e9-a078-3054-2fc4-f8838b6b0fed.htm" />
+        <HelpTOCNode Title="BuscarPorUsuario Method " Url="html/c5077133-711d-d1ca-6b36-b544b2f94c07.htm" />
+        <HelpTOCNode Title="BuscarSaidaDataPorBetween Method " Url="html/c54a39c5-97cc-530c-bdaa-26abdf4cb41a.htm" />
+        <HelpTOCNode Title="BuscarSomatorioSaidaMaterialPorConta Method " Url="html/87d6838d-37fa-d935-7e1a-80ce422a453f.htm" />
+        <HelpTOCNode Title="BuscarTodasSaidasMaterial Method " Url="html/4b5f52af-57bc-2b08-28b8-e85a48c47bc5.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/e2d00b08-d2c4-521b-ce36-45f6ee3cabf2.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/1f2b0b23-03b8-00a3-4cc9-ab24ba4497e9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f41fda32-2090-4cae-ae02-9e57c8ade7a6" Title="SituacaoDAO Class" Url="html/1699b613-9177-1a10-dffa-9a2de9fac4a6.htm">
+      <HelpTOCNode Title="SituacaoDAO Constructor " Url="html/06f733ad-ce35-b686-aedb-8b6830cef043.htm" />
+      <HelpTOCNode Id="30adfc50-3c1e-44ba-8f1c-8373672d5581" Title="SituacaoDAO Methods" Url="html/a86784bb-e36c-e666-999a-9430e937a2e9.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/829f6c82-0244-926a-dd19-8a4c2bae8b2f.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/840fc646-f531-08a7-f52b-e9001234a3fa.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/46f15bed-9b72-c968-eae1-bb27c7557f8c.htm" />
+        <HelpTOCNode Title="BuscarTodasSituacoes Method " Url="html/e3af1faf-1736-bec1-267a-709ba45463cb.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/c378b075-b4c8-9eeb-f36e-918149cb2603.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/5524fc5b-25c5-f5c2-6d5a-6487a2a9f0ce.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dac1b64f-3361-4859-b00a-c8c0d1a0c5b1" Title="UnidadeDAO Class" Url="html/f9a0060b-f0bf-d4b1-0303-be8ba76fb752.htm">
+      <HelpTOCNode Title="UnidadeDAO Constructor " Url="html/21db9773-7e2e-0afe-0bd9-263ebde4e382.htm" />
+      <HelpTOCNode Id="77e77584-4ec6-4ac4-81f7-5aeed5f2951c" Title="UnidadeDAO Methods" Url="html/4236a0ca-7905-bf3d-2178-4b4188e58b28.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/ea66f82c-59ee-2b72-a752-d29208b9fd8a.htm" />
+        <HelpTOCNode Title="BuscarPorDescricao Method " Url="html/a8074552-af22-f89b-ffe2-56a300baef31.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/d8bb06b4-c4df-b389-f92b-70ff3f8a44a1.htm" />
+        <HelpTOCNode Title="BuscarTodasUnidades Method " Url="html/af104304-7525-f65b-b918-dcf3376ebf11.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/8786d593-4d48-d0b7-b8ec-c5bb27f4ab14.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/7a8c90fd-9bca-0a33-0db5-7380e0400b67.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e464f48d-080b-49e5-83cc-949725b480a0" Title="UsuarioDAO Class" Url="html/40184b20-4e27-1612-2304-697662cf3f0e.htm">
+      <HelpTOCNode Title="UsuarioDAO Constructor " Url="html/15021844-870d-044e-4189-f4d7ce5114a5.htm" />
+      <HelpTOCNode Id="6a378681-596e-465b-a40e-18abc0b81b02" Title="UsuarioDAO Methods" Url="html/b5dcddd9-6a4b-1b7a-a45e-80518c6f3de7.htm">
+        <HelpTOCNode Title="Atualizar Method " Url="html/57d5a74a-e096-1e88-ceea-6ab004dc2cc5.htm" />
+        <HelpTOCNode Title="AtualizarUltimoAcessoData Method " Url="html/8edfe91b-999e-3b6f-386f-3296ac79985c.htm" />
+        <HelpTOCNode Title="BuscarPorCpf Method " Url="html/27db23fe-d0a5-276a-97ab-7ec9bf484c49.htm" />
+        <HelpTOCNode Title="BuscarPorID Method " Url="html/eb6ff5c0-efd8-6133-c891-b3c4193d4759.htm" />
+        <HelpTOCNode Title="BuscarPorNome Method " Url="html/968f0112-bdb4-9390-134f-5010cd17b1a9.htm" />
+        <HelpTOCNode Title="BuscarPorNomePorArea Method " Url="html/78b6feca-ca46-2a9e-e916-618c3b19930f.htm" />
+        <HelpTOCNode Title="BuscarTodosUsuarios Method " Url="html/018205c8-41d9-fc1e-e457-9d2f49042487.htm" />
+        <HelpTOCNode Title="BuscarTodosUsuariosPorArea Method " Url="html/ab6a0aa1-e558-91cd-a354-316641b84cc8.htm" />
+        <HelpTOCNode Title="Excluir Method " Url="html/a734c83e-139c-c1a7-4132-95152da687d5.htm" />
+        <HelpTOCNode Title="Logar Method " Url="html/6df945c1-e2ea-eefd-1afc-7c2648d27eef.htm" />
+        <HelpTOCNode Title="RedefinirSenha Method " Url="html/75dc7b06-ee70-f0da-2886-baca7cf7357c.htm" />
+        <HelpTOCNode Title="Salvar Method " Url="html/c8c83c14-3c08-4723-7075-2233a1a3be55.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e3605d6f-3f54-4c6a-9d71-35678dbfd146" Title="CamadaNegocio.MODEL" Url="html/97d535e9-f6ea-08eb-acd3-24d473029994.htm">
+    <HelpTOCNode Id="6f3d8309-7910-42a7-82b3-baf9f032254a" Title="Area Class" Url="html/afba68a2-b14e-6078-30a7-c9b46c34bbe1.htm">
+      <HelpTOCNode Title="Area Constructor " Url="html/619e1735-4e12-ddb0-62b9-164caa9bc6af.htm" />
+      <HelpTOCNode Id="0c4d3430-3fef-44e6-88e0-71efececc7ba" Title="Area Fields" Url="html/4252975c-c4b6-6d98-b926-ccb79e9bd576.htm">
+        <HelpTOCNode Title="areaID Field" Url="html/7d5f8e07-a143-87cd-4e20-12b3d1f5b873.htm" />
+        <HelpTOCNode Title="areaNome Field" Url="html/e1c64ad8-8dd8-910a-684a-c372d2d25658.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/9e854b35-629f-54b5-8618-60dc4dd3e0a2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2b594c2d-801a-414a-a02a-884e0e3fb52c" Title="Area Methods" Url="html/073ef6cd-5ef9-3d7e-d2d0-fcd4135da7b1.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/a4fe9157-d7ba-8909-a86f-a3e5787dcd5d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a3e1bb0-ef30-4f69-b144-29d2284a6d0e" Title="Area Properties" Url="html/01cbaf93-2ca4-9919-f0fd-96ef9c1c2c8a.htm">
+        <HelpTOCNode Title="_AreaID Property " Url="html/67b3bbb0-88ab-4a75-7ff8-08d2bdd1a0e3.htm" />
+        <HelpTOCNode Title="_AreaNome Property " Url="html/359dc367-11ad-5dc0-762c-ed7d06dd9168.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/7a0661ad-4276-7752-e93c-b81431f4c094.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e02d774f-cc4d-4767-9be7-4aabebffedc5" Title="CentroDeCusto Class" Url="html/9441c747-6666-4b0f-4157-9caff25fc044.htm">
+      <HelpTOCNode Title="CentroDeCusto Constructor " Url="html/f3f180db-57f1-c1f8-3005-d3e46f346e60.htm" />
+      <HelpTOCNode Id="24057cf7-cad4-4789-bc3b-3dfed953153f" Title="CentroDeCusto Fields" Url="html/9ec36bb4-61c2-516a-26b8-06e1ab6d71b2.htm">
+        <HelpTOCNode Title="centroDeCustoID Field" Url="html/6f8bc216-b458-ce86-c4ba-d4ffcada2580.htm" />
+        <HelpTOCNode Title="codigo Field" Url="html/5696a48b-8a7e-de19-1a0a-f2bb9a8cf908.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/9ae9b91e-5ca8-a815-c60b-36d73a4b3223.htm" />
+        <HelpTOCNode Title="descricao Field" Url="html/50ec8e78-2c4b-d325-4b66-6013ba7d6fc1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="35da0cf8-764e-4b24-b5b7-601762efd06e" Title="CentroDeCusto Methods" Url="html/25d40751-ac24-5f30-3f7e-ce70e177dbe7.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/b3542926-e204-7bc5-3397-0139a30bf349.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="63340acc-7c6b-47a5-bf71-c41d13f38965" Title="CentroDeCusto Properties" Url="html/7cd1cf25-5f22-d07b-5bfc-f567e91b14f2.htm">
+        <HelpTOCNode Title="_CentroDeCustoID Property " Url="html/cf066e0a-0d60-4328-a000-c27f3878ea96.htm" />
+        <HelpTOCNode Title="_Codigo Property " Url="html/1f86fbd8-88a5-b52b-214b-a7c3401c92cc.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/d9b9e800-aa02-0c48-f9bd-bac347c74a4b.htm" />
+        <HelpTOCNode Title="_Descricao Property " Url="html/8af74e6d-0e00-cc47-0a35-cfc548b4cb8d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a0952ea0-97d1-45cb-86fb-8674f180dc57" Title="Conta Class" Url="html/097632c4-eca0-20db-b329-4522f913e403.htm">
+      <HelpTOCNode Title="Conta Constructor " Url="html/39114e3e-a6fa-3e95-10c4-e507e7c985de.htm" />
+      <HelpTOCNode Id="81980402-6316-49ec-92a4-bcfac1e2a007" Title="Conta Fields" Url="html/339d42cd-bdfe-d74b-59d5-7550547111ca.htm">
+        <HelpTOCNode Title="contaDescricao Field" Url="html/97cc1b94-0226-0df5-bc91-df16f6c34783.htm" />
+        <HelpTOCNode Title="contaFuncao Field" Url="html/820580db-351a-f994-9bb4-667d0ee2213e.htm" />
+        <HelpTOCNode Title="contaID Field" Url="html/b3841b72-7d2a-22ab-a6af-a56baa815a2d.htm" />
+        <HelpTOCNode Title="contaNumero Field" Url="html/20cc50c7-1e26-2675-d472-1e49b4da91ca.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/35372973-fc65-a19f-6457-a13956da68aa.htm" />
+        <HelpTOCNode Title="tipoConta Field" Url="html/243017c3-01f1-af87-50fa-60907de202a8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0d801a09-3937-4075-aeeb-6a6536d1155c" Title="Conta Methods" Url="html/e6316fd4-3aa8-f505-598d-dffb3b28f28d.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/68e4f6a3-bed3-af60-7efe-e0bde3a0f63e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cef65fba-5814-4f2f-9a7a-a41d4fafbf40" Title="Conta Properties" Url="html/2feb1d04-8ab7-e3ca-fd61-9a236391f486.htm">
+        <HelpTOCNode Title="_ContaDescricao Property " Url="html/cd3bc2f5-8d39-55d6-6ae9-647fa7848270.htm" />
+        <HelpTOCNode Title="_ContaFuncao Property " Url="html/d6fafa96-e744-11a2-bc37-3ea7113730c8.htm" />
+        <HelpTOCNode Title="_ContaID Property " Url="html/e159e89e-1874-9780-e352-ea29f7613b97.htm" />
+        <HelpTOCNode Title="_ContaNumero Property " Url="html/b7121329-6099-d2fb-fdc3-6851a47b3466.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/68610d08-d611-7756-0cfa-2d29cf443df1.htm" />
+        <HelpTOCNode Title="_TipoConta Property " Url="html/ce8c8ea5-6dd4-ce10-e696-d3e7a776b370.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cc10a081-635a-44b3-89d1-3da239a0a378" Title="Endereco Class" Url="html/46663606-046e-18cb-ac0a-c3760d8e4419.htm">
+      <HelpTOCNode Title="Endereco Constructor " Url="html/a78f451a-d217-5f7e-c481-6863cf08a999.htm" />
+      <HelpTOCNode Id="351c91fa-9d52-43c6-aada-2d627a006d18" Title="Endereco Fields" Url="html/bdd22e4f-513e-f586-0de8-b1a002aca5b7.htm">
+        <HelpTOCNode Title="codigo Field" Url="html/52e7e37e-e7a1-42cc-0f88-210d2886b80f.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/5112ab8a-faba-0491-7f26-97086cc74e8f.htm" />
+        <HelpTOCNode Title="enderecoDescricao Field" Url="html/ee8ba2be-40e6-77b8-d493-5febe8de4a2c.htm" />
+        <HelpTOCNode Title="enderecoID Field" Url="html/4009a961-478f-ae73-c953-e41fa10a4e42.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d2531e96-1c26-4d89-979b-78d289629b4d" Title="Endereco Methods" Url="html/3700398c-6a5f-53b3-1081-3a53b9230ef4.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/9ece4e63-c5c3-6b2e-f7f1-c6791bd8c4d9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9163114f-df94-48a5-a084-f905118b9e42" Title="Endereco Properties" Url="html/953f43a3-ca18-0fb9-a2fd-a24079b2f8c8.htm">
+        <HelpTOCNode Title="_Codigo Property " Url="html/a6329582-bc06-67e9-1f6b-fd08db04e3a9.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/0dd9e659-2fdd-adbd-c4d8-27d2d4de3980.htm" />
+        <HelpTOCNode Title="_EnderecoDescricao Property " Url="html/429f088c-ecaf-5b4f-3052-0a519c3d4597.htm" />
+        <HelpTOCNode Title="_EnderecoID Property " Url="html/323bd246-f5cf-29f2-d199-63c459dc5463.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2bafab5f-d214-46dc-9f11-901e3143fa66" Title="EntradaMaterial Class" Url="html/49c7f73c-4075-14cb-c816-505339805e83.htm">
+      <HelpTOCNode Title="EntradaMaterial Constructor " Url="html/d2cd4332-5b8d-9929-6b87-89a3c6ccccb5.htm" />
+      <HelpTOCNode Id="83ae5ca4-da8d-476a-83f5-f2b3bb738730" Title="EntradaMaterial Fields" Url="html/e8cf6606-f6db-73f3-c00f-259f0171906d.htm">
+        <HelpTOCNode Title="dataCadastro Field" Url="html/440e1b7a-6ab6-75d1-6dbd-47795aaf6411.htm" />
+        <HelpTOCNode Title="entradaMaterialID Field" Url="html/a1264945-9814-c7d4-bce8-542981390579.htm" />
+        <HelpTOCNode Title="fornecedor Field" Url="html/7be308da-373b-80be-42fc-14a977124cb8.htm" />
+        <HelpTOCNode Title="horaCadastro Field" Url="html/3e598fae-63b2-6069-6f78-1b799e677b39.htm" />
+        <HelpTOCNode Title="listaItemEntradaMaterial Field" Url="html/11f0f05f-9ff3-ef53-5068-39125122ddb3.htm" />
+        <HelpTOCNode Title="observacao Field" Url="html/089984c2-9b03-8796-1727-30eb5a02cf15.htm" />
+        <HelpTOCNode Title="processo Field" Url="html/5afcb676-6ef1-35fa-18e8-a54cac9cc243.htm" />
+        <HelpTOCNode Title="usuario Field" Url="html/f21200c1-4f12-ddab-0345-781f348c4180.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e9a239a2-ec07-42af-a6ea-b687cc4c8f77" Title="EntradaMaterial Methods" Url="html/ea9c7632-7b74-c9ab-d73d-8cafbf549d32.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/3f3a8d24-8ab3-a732-fc01-a202a47db45a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a863e528-92af-40b0-addc-6ac9b093a15f" Title="EntradaMaterial Properties" Url="html/8eb68301-d825-ab1f-43b5-15d082012324.htm">
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/8c97faad-ff12-2f71-68ba-50a0781d8bf3.htm" />
+        <HelpTOCNode Title="_EntradaMaterialID Property " Url="html/70e34de2-6115-dbcd-b71a-34a2a88bb086.htm" />
+        <HelpTOCNode Title="_Fornecedor Property " Url="html/f65822af-ecff-0022-8e37-135ce3392063.htm" />
+        <HelpTOCNode Title="_HoraCadastro Property " Url="html/a71b9a43-df2a-2641-b212-ae932ec6a040.htm" />
+        <HelpTOCNode Title="_ListaItemEntradaMaterial Property " Url="html/36d6f531-0753-135b-3166-ddcb1d50a5c1.htm" />
+        <HelpTOCNode Title="_Observacao Property " Url="html/78ff48ef-2c5a-4f49-2a6f-2714f6a7b439.htm" />
+        <HelpTOCNode Title="_Processo Property " Url="html/99765667-5c0f-fe55-106d-5483801cbfeb.htm" />
+        <HelpTOCNode Title="_Usuario Property " Url="html/5345523d-ac80-c2d5-6ff0-0aad1a798f04.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="66d3971a-355a-4182-89d2-1b3e02ccd916" Title="Fornecedor Class" Url="html/4c28f8de-a107-c61e-7fce-325a17dda130.htm">
+      <HelpTOCNode Title="Fornecedor Constructor " Url="html/944694b5-9b75-2c06-8180-e3033dd40bff.htm" />
+      <HelpTOCNode Id="87fff840-582e-4778-a554-5de362c11f59" Title="Fornecedor Fields" Url="html/f9bcd684-01de-4789-60a0-41950dff0025.htm">
+        <HelpTOCNode Title="dataCadastro Field" Url="html/ea5fb57b-1c64-7fa0-1a2d-a8cc43e15e3b.htm" />
+        <HelpTOCNode Title="fornecedorID Field" Url="html/8bb0f5e5-bd7b-5c24-e8f4-65b31b3ec8ae.htm" />
+        <HelpTOCNode Title="fornecedorNome Field" Url="html/e92c3fe0-e681-5e04-af4e-38b6b5978188.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c5142dd4-6d08-4a16-8da2-a35aa98a6988" Title="Fornecedor Methods" Url="html/c220beb8-2ed0-aae7-eeb5-2e6996797abb.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/aa5788f2-2091-b4f2-6733-0f4634890a3c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4697baa5-2fcb-4644-b3f7-82acc66f3665" Title="Fornecedor Properties" Url="html/c889ad6e-8378-c469-acd6-d020153c0346.htm">
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/2a088394-a318-06d9-75fe-2b7d15147ed8.htm" />
+        <HelpTOCNode Title="_FornecedorID Property " Url="html/97b463f3-339a-5b06-9838-b6fee79e27d4.htm" />
+        <HelpTOCNode Title="_FornecedorNome Property " Url="html/4e2f8719-ad39-3c99-77bf-25b8a1832d54.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ed007186-8b7f-40ec-bb92-e09e2e6e1b9a" Title="ItemEntradaMaterial Class" Url="html/1777cba8-a6d2-470e-ef07-f94ca4ee6c29.htm">
+      <HelpTOCNode Title="ItemEntradaMaterial Constructor " Url="html/9536431a-fd38-ec37-a8b2-615382861edd.htm" />
+      <HelpTOCNode Id="ce2cd9b9-e5c9-4661-93c4-a7f41625c7b2" Title="ItemEntradaMaterial Fields" Url="html/4687218f-53f8-537e-3d9c-80cd9cf73e61.htm">
+        <HelpTOCNode Title="entradaMaterial Field" Url="html/2f2a3d65-772c-ec5f-85a0-6cffcd88277f.htm" />
+        <HelpTOCNode Title="itemEntradaMaterialID Field" Url="html/6d58a88d-a6d3-73a9-51b3-16dd39c77a06.htm" />
+        <HelpTOCNode Title="produto Field" Url="html/7dabc8bf-45ee-5898-18f7-d909a321ad86.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9309489a-a8f4-4bfa-be33-f9d46c1a0f9c" Title="ItemEntradaMaterial Methods" Url="html/340520d9-ac73-e3d5-bbf3-01dedc198fab.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/cdf2e0cf-3f69-76dc-23f9-9dd2078021a6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5b2e76dd-0f70-44ea-9c70-a604bda45008" Title="ItemEntradaMaterial Properties" Url="html/cb699896-4462-f8ba-bd00-f9af3bfc4af2.htm">
+        <HelpTOCNode Title="_EntradaMaterial Property " Url="html/b0a0b7d5-b178-8cb9-2dbc-b4bd406bcce6.htm" />
+        <HelpTOCNode Title="_ItemEntradaMaterialID Property " Url="html/15b8296f-a694-a146-0047-ee1ef155c32e.htm" />
+        <HelpTOCNode Title="_Produto Property " Url="html/92c3f86c-bdc6-af14-d20f-b0e393fa53b8.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="60c8e978-f9a6-45d0-9677-7bc88c8db123" Title="ItemLicitacao Class" Url="html/fcc2085e-51d4-4759-4082-cd070330850d.htm">
+      <HelpTOCNode Title="ItemLicitacao Constructor " Url="html/a49704a1-5582-a22e-334d-5a2eaf3c312d.htm" />
+      <HelpTOCNode Id="604e4a7f-cfc0-4dde-b39b-faa7e8627f6e" Title="ItemLicitacao Fields" Url="html/345f19da-7a7c-cb88-4b60-425c61fdfed3.htm">
+        <HelpTOCNode Title="itemLicitacaoID Field" Url="html/8342362c-b544-7cd7-4db0-b8fe51194840.htm" />
+        <HelpTOCNode Title="licitacao Field" Url="html/e63620f0-b091-db6d-af22-fbea0d8c2787.htm" />
+        <HelpTOCNode Title="produto Field" Url="html/990a296e-f82b-7e29-cbda-f35a2bea0e40.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="12b0581f-edd2-42da-b6ea-ec289e5dcd61" Title="ItemLicitacao Methods" Url="html/e0345be4-29a3-9600-8019-b31103131829.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/060f07b8-4f0b-f564-e43b-f5d5bdcc37a5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="eb43759e-be91-4c45-9d54-c07db76b66fe" Title="ItemLicitacao Properties" Url="html/fa120538-c39e-2517-3fb1-161f5082f761.htm">
+        <HelpTOCNode Title="_ItemLicitacaoID Property " Url="html/7cee502e-5d14-1212-5e33-744d4f31619c.htm" />
+        <HelpTOCNode Title="_Licitacao Property " Url="html/8acdb353-5dd4-8662-2aa7-8586e02f7781.htm" />
+        <HelpTOCNode Title="_Produto Property " Url="html/cf5022de-0f10-aac2-7f80-70469192c440.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="31657284-1375-4630-a71a-cbb8fd397ddc" Title="ItemRequisicao Class" Url="html/da2c845a-19df-7bed-07c9-41288b8f0889.htm">
+      <HelpTOCNode Title="ItemRequisicao Constructor " Url="html/15d570a2-efb9-0d0a-da33-2a59b7fca1ba.htm" />
+      <HelpTOCNode Id="6b10e8bc-8c6c-4d09-9e34-b5be1e8b08df" Title="ItemRequisicao Fields" Url="html/b3c3c64f-1622-39c7-b871-60e41192b14c.htm">
+        <HelpTOCNode Title="itemRequisicaoID Field" Url="html/4584d101-c81e-2d93-8ac1-7233382ee556.htm" />
+        <HelpTOCNode Title="produto Field" Url="html/78cbaadf-9fc8-2737-ad20-7067b9b49976.htm" />
+        <HelpTOCNode Title="requisicao Field" Url="html/6efb5a62-f44e-0629-79aa-b6a2eb113425.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0e9a81ed-1ece-45be-a46b-cf3a0de577c2" Title="ItemRequisicao Methods" Url="html/6031fabe-4638-fc8e-c023-3a1bcb09018f.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/636f855b-4c25-e676-1140-bcb294c0d322.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d761464f-ce4a-497c-874d-c2410d3fd6ca" Title="ItemRequisicao Properties" Url="html/a7a5ec5d-3754-6ecb-f4ff-727c138d9ce8.htm">
+        <HelpTOCNode Title="_ItemRequisicaoID Property " Url="html/a607a16f-e48f-8cf7-6434-e4cba9caa47b.htm" />
+        <HelpTOCNode Title="_Produto Property " Url="html/e0678a82-8720-1b2d-8294-9a0b6ee82c9c.htm" />
+        <HelpTOCNode Title="_Requisicao Property " Url="html/0e7df4ff-ee76-a115-2f47-c115d57a9a0c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="26876470-a6ad-4b5a-8d0a-cef9744f4fa1" Title="ItemSaidaMaterial Class" Url="html/8fc3a878-8e5e-2bd6-0f27-cec2305a568f.htm">
+      <HelpTOCNode Title="ItemSaidaMaterial Constructor " Url="html/2a6c2b5c-99c7-d4b0-073c-f9ccef56ccb6.htm" />
+      <HelpTOCNode Id="f34410b0-c484-497d-bf6d-562daf22d0ad" Title="ItemSaidaMaterial Fields" Url="html/dd0dda45-b74b-f68e-6d2f-d76202ffc13b.htm">
+        <HelpTOCNode Title="itemSaidaMaterialID Field" Url="html/0a8d6289-7a3e-9f6b-2661-f2f0b0cc0351.htm" />
+        <HelpTOCNode Title="produto Field" Url="html/9a58976d-007b-149c-cbac-f0182184fa9d.htm" />
+        <HelpTOCNode Title="saidaMaterial Field" Url="html/776eaffd-f644-2d24-1bf1-9c8a60a22ea0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="17c9a22a-03fa-4ea5-be75-758c509cd896" Title="ItemSaidaMaterial Methods" Url="html/7f2bae48-6414-4d87-ae58-d87326650568.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/167c2060-4526-ea06-c4f1-91856137e225.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0274bdc7-ba72-4e52-9754-f321549c7d19" Title="ItemSaidaMaterial Properties" Url="html/c1bf40bc-8c54-b5b4-ee9d-132d31e6e512.htm">
+        <HelpTOCNode Title="_ItemSaidaMaterialID Property " Url="html/c405a997-9c35-bcbb-af2b-c50562aec275.htm" />
+        <HelpTOCNode Title="_Produto Property " Url="html/e68111c8-25e7-479a-716c-56a1c6a28304.htm" />
+        <HelpTOCNode Title="_SaidaMaterial Property " Url="html/9f522d6d-26ff-36b4-b2dd-cefb1b120c09.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d3973a57-7651-4b57-b868-41b31050355c" Title="Licitacao Class" Url="html/3963b06f-0f9e-fe0d-e77c-06237895d737.htm">
+      <HelpTOCNode Title="Licitacao Constructor " Url="html/c2a65699-4595-f198-13bb-1a037f6a7f1b.htm" />
+      <HelpTOCNode Id="7657768a-b3b6-4679-849e-cd4f2dc84e97" Title="Licitacao Fields" Url="html/7bd30648-cd2f-e7f6-efc6-8b0ac66d1f7f.htm">
+        <HelpTOCNode Title="dataCadastro Field" Url="html/da4fac79-5a61-8b69-48ff-42850a1f43d0.htm" />
+        <HelpTOCNode Title="licitacaoID Field" Url="html/e5540d41-cae1-e651-623d-fec073e3664c.htm" />
+        <HelpTOCNode Title="observacao Field" Url="html/598cf215-90ae-5acd-2bd6-d8530325a14e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="863cc79e-bc87-481b-93c0-e3507da81ea3" Title="Licitacao Methods" Url="html/f905c5d1-dbce-4eeb-f3bd-294b952d2f38.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/265b0aff-cc8a-1874-a40f-7e15323b134d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="dda07cc7-1ac2-4b39-aafd-fd7584361d0f" Title="Licitacao Properties" Url="html/9ed3e965-39af-ef57-7c9d-bf68cb53ff88.htm">
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/f8e6a1d3-93bb-d6cb-38ad-0dd99759da17.htm" />
+        <HelpTOCNode Title="_LicitacaoID Property " Url="html/4b19328c-9b4d-ca38-11bc-13e97ffe4f52.htm" />
+        <HelpTOCNode Title="_Observacao Property " Url="html/2e083f02-b3cd-957c-7e61-f03a00bb72cd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7efc453a-a38d-4a0e-a575-f89a91d6d86b" Title="NomeProduto Class" Url="html/543659c1-de22-62c8-6f0e-30426dec5671.htm">
+      <HelpTOCNode Title="NomeProduto Constructor " Url="html/2cf17bd6-c33e-1e4b-e261-05a14ed12617.htm" />
+      <HelpTOCNode Id="6813cb44-022c-4089-a98f-e3fb74a3fc80" Title="NomeProduto Fields" Url="html/47a819ea-042f-8a19-e775-e852e83fb1a0.htm">
+        <HelpTOCNode Title="codigo Field" Url="html/47282166-6085-e1ff-d42a-120d6bb2c5a1.htm" />
+        <HelpTOCNode Title="conta Field" Url="html/31e8bb88-37c7-bfa8-7218-8c1cd202e582.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/7a9396f1-ac78-5a2c-f3a1-55f6dc150aba.htm" />
+        <HelpTOCNode Title="nomeProdutoID Field" Url="html/d461eb75-5466-f06e-6eb9-e45d23a54569.htm" />
+        <HelpTOCNode Title="produtoNome Field" Url="html/924f0e92-46db-60e9-e4a3-f89480325b04.htm" />
+        <HelpTOCNode Title="produtoPrecoUnitario Field" Url="html/ac820eed-c7fb-9955-5387-48c100a99270.htm" />
+        <HelpTOCNode Title="unidade Field" Url="html/7f9426b5-08f3-6ff9-2937-8ef457ba0480.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d60464c6-bfa7-437d-a80d-b7c434de17f0" Title="NomeProduto Methods" Url="html/13c79094-0674-b523-116c-551fd7de4a09.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/698d21db-71e3-6d39-a10c-59d2535f24e1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d35392fa-1066-43a6-a21e-7d86dc29cdf3" Title="NomeProduto Properties" Url="html/b058e6b8-a7fa-feaa-46e6-752aca7abe33.htm">
+        <HelpTOCNode Title="_Codigo Property " Url="html/e020b0de-d3b1-2a48-dc72-8b27aff43c9f.htm" />
+        <HelpTOCNode Title="_Conta Property " Url="html/f38db70e-d2d7-7659-612c-15fc42d2048a.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/822527d0-f155-0198-5229-3f25d7d9e354.htm" />
+        <HelpTOCNode Title="_NomeProdutoID Property " Url="html/4b52a88f-61da-4650-4801-e7b85f3b01ce.htm" />
+        <HelpTOCNode Title="_ProdutoNome Property " Url="html/c850d6dd-5f31-81f9-5f74-5fad1b10234b.htm" />
+        <HelpTOCNode Title="_ProdutoPrecoUnitario Property " Url="html/5afdf213-aa55-7f38-3b3e-dd43cdda5fe7.htm" />
+        <HelpTOCNode Title="_Unidade Property " Url="html/f3b68cc4-4b2f-5f1b-be9d-cc7779ebe637.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8d2a1c24-40e1-4533-9d4e-48186a1a9aad" Title="Processo Class" Url="html/f8993d5a-05c3-40c0-81d6-86f224c91dae.htm">
+      <HelpTOCNode Title="Processo Constructor " Url="html/d328bc0b-67ab-f013-4f24-4ef3ab43cd70.htm" />
+      <HelpTOCNode Id="30746e14-33de-4462-9135-b1f14873acfd" Title="Processo Fields" Url="html/ceae4e71-95a1-e046-cd1d-2c634507b29e.htm">
+        <HelpTOCNode Title="dataCadastro Field" Url="html/d985eee6-f174-7d49-dc6c-ccfbcb731f9d.htm" />
+        <HelpTOCNode Title="processoData Field" Url="html/6578566d-ee79-0a8d-b6cc-f0a2a58ab455.htm" />
+        <HelpTOCNode Title="processoID Field" Url="html/f9fd4328-146b-81aa-f02f-39285c44b16e.htm" />
+        <HelpTOCNode Title="processoNumero Field" Url="html/d326e0e4-471e-88f3-bae3-00fc2dbf32b8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5ffd06b0-06f2-483b-b07d-57e8a4b9d667" Title="Processo Methods" Url="html/4b146fb6-a0e4-2c2d-4878-c98ca7a5e000.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/5762c37f-ea1c-e059-9ac1-6f4d6ef20a3a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="546970de-eb7b-4cde-89fe-e0a633432d6a" Title="Processo Properties" Url="html/ecaf4594-9b54-8db6-7211-a1316f92d013.htm">
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/bb61b1c7-ee25-8748-c026-c5cd9a7aaa77.htm" />
+        <HelpTOCNode Title="_ProcessoData Property " Url="html/36c65219-24f9-4da7-ee88-379c4a826842.htm" />
+        <HelpTOCNode Title="_ProcessoID Property " Url="html/a8eb8946-f8f4-0f0e-0c0b-7d62b451623a.htm" />
+        <HelpTOCNode Title="_ProcessoNumero Property " Url="html/158f14d9-7a0d-5c61-97a8-d428076cc4a5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7b21f850-8c2c-485e-beee-5a761c410323" Title="Produto Class" Url="html/b8147f5d-5119-b6c6-fa60-931189237467.htm">
+      <HelpTOCNode Title="Produto Constructor " Url="html/1b03051e-95d7-2d47-6635-8ad4edcd97e8.htm" />
+      <HelpTOCNode Id="54083c43-5c11-4160-a373-5112a493951d" Title="Produto Fields" Url="html/d8bc89cf-b255-9362-daa6-5d9d628e4e6d.htm">
+        <HelpTOCNode Title="codigo Field" Url="html/fbf0e52d-86c0-eb18-eb26-fd41f748d196.htm" />
+        <HelpTOCNode Title="conta Field" Url="html/79bb2d66-a611-8684-bd81-0af859820b4f.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/95bcd36a-3264-9e91-06f5-78a2ae3650d5.htm" />
+        <HelpTOCNode Title="estoqueValorTotal Field" Url="html/01d95e00-2d6b-b8e3-d551-d524739b26b0.htm" />
+        <HelpTOCNode Title="produtoID Field" Url="html/448409c3-f634-dc0e-ddf2-27bb25bae49e.htm" />
+        <HelpTOCNode Title="produtoNome Field" Url="html/d6129953-bcc9-99b7-0438-34534068e2fc.htm" />
+        <HelpTOCNode Title="produtoPrecoUnitario Field" Url="html/0a59dc22-a7f9-7fce-71f2-9a0b601d511e.htm" />
+        <HelpTOCNode Title="produtoTipo Field" Url="html/ab1842bc-579a-d468-cea7-0cf64d90e1a4.htm" />
+        <HelpTOCNode Title="produtoValorTotal Field" Url="html/bafc0322-43f5-bd59-c373-8a0a65531739.htm" />
+        <HelpTOCNode Title="quantidadeAtendida Field" Url="html/be421366-9552-caf0-e5d6-4c6aaf75347e.htm" />
+        <HelpTOCNode Title="quantidadeEntrada Field" Url="html/a6450ce7-9a47-1448-2b22-ada67e3213ba.htm" />
+        <HelpTOCNode Title="quantidadeEstoque Field" Url="html/dc4de1af-b51d-b446-7b4d-1c064fe0e713.htm" />
+        <HelpTOCNode Title="quantidadeSaida Field" Url="html/0eb417f4-7ef2-d6c6-3672-9a87ecc1cb17.htm" />
+        <HelpTOCNode Title="quantidadeSolicitada Field" Url="html/71859447-17ef-dea2-e34b-90b0dd407fbe.htm" />
+        <HelpTOCNode Title="unidade Field" Url="html/e23a9d18-585e-9f40-41cd-966d46e52d20.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b4f0416c-8a25-402a-ae14-c7a777381da1" Title="Produto Methods" Url="html/816f4165-46e7-5e60-87a8-a67379fea491.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/5878e844-4194-ad80-a713-818904506e0c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2471f05b-c662-4484-a35f-90d388e6ef47" Title="Produto Properties" Url="html/6f3c9530-e56e-d59e-4ac3-bdcacf02438e.htm">
+        <HelpTOCNode Title="_Codigo Property " Url="html/c7de9d58-bd6c-cb9a-63c3-3eb46b69cc47.htm" />
+        <HelpTOCNode Title="_Conta Property " Url="html/ad9610da-f2a6-729e-33db-d4e93681acf5.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/696b23da-3a7c-84c9-f2be-e5840fc5635b.htm" />
+        <HelpTOCNode Title="_EstoqueValorTotal Property " Url="html/9c224a24-030e-3cb1-5aa0-4ab4f977f3f4.htm" />
+        <HelpTOCNode Title="_ProdutoID Property " Url="html/dab82a9b-4161-99e2-08db-d58619f1fffa.htm" />
+        <HelpTOCNode Title="_ProdutoNome Property " Url="html/07cb9361-e364-57d6-4724-8821ff5ae304.htm" />
+        <HelpTOCNode Title="_ProdutoPrecoUnitario Property " Url="html/68b69c17-9f30-a0ba-92bf-b9003e4f0608.htm" />
+        <HelpTOCNode Title="_ProdutoTipo Property " Url="html/4592f233-e3b9-e1e4-ed15-3d798eb044bb.htm" />
+        <HelpTOCNode Title="_ProdutoValorTotal Property " Url="html/0617e5cc-884e-792d-2166-8acd318b3505.htm" />
+        <HelpTOCNode Title="_QuantidadeAtendida Property " Url="html/fb10cb36-cca2-8f85-431b-90d8bb887719.htm" />
+        <HelpTOCNode Title="_QuantidadeEntrada Property " Url="html/6d3bb77c-1c5d-20ef-f09a-dbaca1ce7f60.htm" />
+        <HelpTOCNode Title="_QuantidadeEstoque Property " Url="html/10db9b25-2fd8-4963-2c3b-5aa1b612a90b.htm" />
+        <HelpTOCNode Title="_QuantidadeSaida Property " Url="html/a9658f33-03bd-145a-4653-76aa536229cb.htm" />
+        <HelpTOCNode Title="_QuantidadeSolicitada Property " Url="html/81f65637-a3c4-5e9b-a31e-4db09aa13c47.htm" />
+        <HelpTOCNode Title="_Unidade Property " Url="html/95166037-22be-a7b9-bad9-f6814d010417.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ProdutoTipo Enumeration" Url="html/49bad07a-c232-1c0a-6cee-bba1ad8c3253.htm" />
+    <HelpTOCNode Id="d7957e8f-50d4-426f-b968-d07fec35ec73" Title="Requisicao Class" Url="html/0b3d9cbe-00d7-d8f1-7caa-8b2ddc73e978.htm">
+      <HelpTOCNode Title="Requisicao Constructor " Url="html/4f3089bd-3f72-e003-cd47-4db7fab82be6.htm" />
+      <HelpTOCNode Id="e6a31cd3-cb4e-43cb-ad92-06c44e7231f6" Title="Requisicao Fields" Url="html/3451566c-9797-bf5a-5caf-d4f3ce908496.htm">
+        <HelpTOCNode Title="codigo Field" Url="html/ada26f1c-1a6a-4a71-01c3-c994dadf720a.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/53dc78dc-c110-2d00-8670-5b19ecde442f.htm" />
+        <HelpTOCNode Title="endereco Field" Url="html/c0351f94-3e76-ae91-014c-1b2341ba6bb3.htm" />
+        <HelpTOCNode Title="horaCadastro Field" Url="html/dfb69f64-550c-61d4-8806-2afe97756243.htm" />
+        <HelpTOCNode Title="requisicaoID Field" Url="html/3c611a5c-5c86-85cb-91a2-5cb5ee2b3415.htm" />
+        <HelpTOCNode Title="requisicaoObservacao Field" Url="html/813dbee5-be8f-3d10-4293-a12bbba944a2.htm" />
+        <HelpTOCNode Title="requisitante Field" Url="html/11f815c5-28e2-8636-76d1-07aed6ec0a20.htm" />
+        <HelpTOCNode Title="situacao Field" Url="html/ac5b55f5-889e-5b49-ff92-c478c90b869c.htm" />
+        <HelpTOCNode Title="usuario Field" Url="html/3135a482-2556-cd82-6993-99412f2fa97c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="77dae973-5212-40b2-9d70-29e7f5cb876e" Title="Requisicao Methods" Url="html/e1f54ed5-4394-b85a-0ec8-5b9c7fd28581.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/7c687e84-2da7-b49a-67f6-347e77859355.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="400d91b0-0fe7-4081-8beb-b7d87ceb83dc" Title="Requisicao Properties" Url="html/1af80588-6642-1d02-1790-faeb3e930ece.htm">
+        <HelpTOCNode Title="_Codigo Property " Url="html/8e0094b3-8c52-0b05-9ed5-146a58506921.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/d7bbd158-bcbd-713f-2979-7b7945f6c38d.htm" />
+        <HelpTOCNode Title="_Endereco Property " Url="html/bb3933ec-7542-0f89-0d58-b378a94eb2c7.htm" />
+        <HelpTOCNode Title="_HoraCadastro Property " Url="html/db27a942-f5f9-cc97-f6c9-3e4c96ff6a8d.htm" />
+        <HelpTOCNode Title="_RequisicaoID Property " Url="html/7e573188-8751-4f63-16ca-db34aaf222be.htm" />
+        <HelpTOCNode Title="_RequisicaoObservacao Property " Url="html/5ec6b9fe-3ac0-d5fb-e22f-cc102fed6512.htm" />
+        <HelpTOCNode Title="_Requisitante Property " Url="html/9c55cf3a-43bc-855b-4c13-6fed8c94524c.htm" />
+        <HelpTOCNode Title="_Situacao Property " Url="html/f2945f5e-aef9-7e8c-e12c-a4f6cf678b7d.htm" />
+        <HelpTOCNode Title="_Usuario Property " Url="html/a4e5f83a-a3d2-6ff9-0a5d-3aa3b7734de4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2cd4801b-7455-43bc-abf1-faa672b21e92" Title="Requisitante Class" Url="html/d3a9f2b9-f6de-a290-e85a-cd6220882ef0.htm">
+      <HelpTOCNode Title="Requisitante Constructor " Url="html/2c29fd75-55cb-d1d6-3801-2ba55409072f.htm" />
+      <HelpTOCNode Id="c3c28488-afd7-4fb2-a820-bd831f82fe15" Title="Requisitante Fields" Url="html/59827f99-6a6f-296d-4dd2-250ba2968955.htm">
+        <HelpTOCNode Title="codigo Field" Url="html/486f8761-db67-a4f4-5f5a-854950bda132.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/3517f7c4-3a59-e7fd-249b-9b2f6ffa25bc.htm" />
+        <HelpTOCNode Title="requisitanteID Field" Url="html/acffdb3d-7395-ed0b-32fc-8adae56c303d.htm" />
+        <HelpTOCNode Title="requisitanteNome Field" Url="html/4b56c8a5-eae8-dd78-be6b-ac9a338bbf7d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d1438176-fb6c-4b5a-adc9-352796eb2a68" Title="Requisitante Methods" Url="html/383fe367-a065-8328-cb5f-3552f4e9f1cd.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/d37a63dc-8252-fff4-91ae-3f7ca977646b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5226af1e-e919-41e6-ba66-c001f7ee30b8" Title="Requisitante Properties" Url="html/8dcd8812-f967-7e50-79d2-9867db882f3c.htm">
+        <HelpTOCNode Title="_Codigo Property " Url="html/b82e60a1-87ed-a28b-aec3-d4d9f40b9a17.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/c516865e-71b6-59f2-d457-067398290edb.htm" />
+        <HelpTOCNode Title="_RequisitanteID Property " Url="html/bb4cd458-bd44-820e-1885-3d14a6beb40c.htm" />
+        <HelpTOCNode Title="_RequisitanteNome Property " Url="html/ffcdc0a1-d193-4f0a-3e6d-2e9d9e3b2dde.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2750bdea-cc6a-4ea0-b00b-9b8ff53c1abb" Title="SaidaMaterial Class" Url="html/4f558181-fe5a-58a4-b5c7-4c1271fd0596.htm">
+      <HelpTOCNode Title="SaidaMaterial Constructor " Url="html/ec68f7c8-4b16-0b39-3610-9bc8724145b3.htm" />
+      <HelpTOCNode Id="684fe91d-f249-4f2d-950e-85e9b05d4cf0" Title="SaidaMaterial Fields" Url="html/74326c53-a92d-f9d7-bcd7-e79d1a320231.htm">
+        <HelpTOCNode Title="centroDeCusto Field" Url="html/d2262874-69db-199c-cbd5-f18dee0fe6e6.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/938a770c-9a2e-5055-1a4b-60098f675361.htm" />
+        <HelpTOCNode Title="horaCadastro Field" Url="html/7a5892b9-18d7-1dfc-c723-71ae63059f7e.htm" />
+        <HelpTOCNode Title="listaItemSaidaMaterial Field" Url="html/28f0869d-9c2c-24aa-7f63-63cfc409cbfc.htm" />
+        <HelpTOCNode Title="observacao Field" Url="html/f820a649-1dee-d64c-dca3-b1e106786bdc.htm" />
+        <HelpTOCNode Title="requisitante Field" Url="html/2ce86842-0aff-852a-ae2d-71b9253e14ce.htm" />
+        <HelpTOCNode Title="saidaMaterialID Field" Url="html/8bd8b211-4d29-3014-6320-e391a7703cd0.htm" />
+        <HelpTOCNode Title="usuario Field" Url="html/344ed211-c0ed-9be5-7254-4f7a66f4cce0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ed4decbb-ca34-4ef6-9201-40179a7587ee" Title="SaidaMaterial Methods" Url="html/ffc2538d-6160-7cd7-f4c1-0ce497743139.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/3adf37b2-3795-db15-3170-a29ea807fa4a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="528607ea-2d85-48c4-9b5f-468ac8ab1df8" Title="SaidaMaterial Properties" Url="html/a9245c9f-0352-1c58-d932-95d39ba2728c.htm">
+        <HelpTOCNode Title="_CentroDeCusto Property " Url="html/e2b73ca6-7185-bf97-0887-bc6e9373bdc8.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/197bfe9d-0fbb-3280-511a-19d84fe784a5.htm" />
+        <HelpTOCNode Title="_HoraCadastro Property " Url="html/f7b325dd-dd0c-a8be-f98f-65c3ac693cb5.htm" />
+        <HelpTOCNode Title="_ListaItemSaidaMaterial Property " Url="html/f7141ea9-5238-4de6-10a4-52e6f6b647dd.htm" />
+        <HelpTOCNode Title="_Observacao Property " Url="html/f3be2956-c37e-c0b2-df21-2f46926698bf.htm" />
+        <HelpTOCNode Title="_Requisitante Property " Url="html/64b9d783-ab21-fb13-9927-b5f2e0218a92.htm" />
+        <HelpTOCNode Title="_SaidaMaterialID Property " Url="html/514ecbde-9d7d-e87d-d802-4443737a3e14.htm" />
+        <HelpTOCNode Title="_Usuario Property " Url="html/0f7193a8-6d62-3d90-f4c5-940cc3360017.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce562572-4f1c-49f1-94b4-23cbd0a51798" Title="Situacao Class" Url="html/593c97ac-f3c3-19fa-c578-e76bae76bd45.htm">
+      <HelpTOCNode Title="Situacao Constructor " Url="html/f1126b46-86ba-45af-3e41-e06d80f0f283.htm" />
+      <HelpTOCNode Id="40c25f8b-e170-4218-a927-57bcc8c750bf" Title="Situacao Fields" Url="html/73dff4d4-c4d3-5f21-8063-9306895c268c.htm">
+        <HelpTOCNode Title="dataCadastro Field" Url="html/d77accc8-6098-ea6a-0aa9-c16375ae5a26.htm" />
+        <HelpTOCNode Title="situacaoID Field" Url="html/5bd02df4-b0e5-a77c-780c-d0bfe064ccd0.htm" />
+        <HelpTOCNode Title="situacaoNome Field" Url="html/0a0e3387-79ae-d0a3-d2a8-9a56305acec8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="66f0b42f-9cf3-48e1-8a4f-fc2bc712310b" Title="Situacao Methods" Url="html/0a312458-7aa6-1b16-b150-928182067d64.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/d54b08b9-ef95-6cda-a744-e51499fca897.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="66cb74c7-6d1a-4d76-8520-138f6dd3175d" Title="Situacao Properties" Url="html/c386a011-9d94-1a7d-f2b6-6a1d297271d8.htm">
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/9d4abaf9-b31d-d54a-5012-dc55334971b5.htm" />
+        <HelpTOCNode Title="_SituacaoID Property " Url="html/7ef77d76-840a-b8fd-4707-6353b529fda5.htm" />
+        <HelpTOCNode Title="_SituacaoNome Property " Url="html/8e68e52f-0572-e12c-c0eb-8f9c69683ac7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="TipoConta Enumeration" Url="html/67e1aa4d-4d21-6f00-5fd4-5daf7370b098.htm" />
+    <HelpTOCNode Id="07e8b182-4d8d-44eb-b313-5eefa682f0a3" Title="Unidade Class" Url="html/cd2ad581-fcb3-5c41-d4a8-bdd8ef05acf9.htm">
+      <HelpTOCNode Title="Unidade Constructor " Url="html/141a4d1e-82be-c537-ea03-20a7bef3afb7.htm" />
+      <HelpTOCNode Id="5e97d749-5725-4c7e-ae5c-9984d3e35633" Title="Unidade Fields" Url="html/9c3b8aa3-da23-952b-2ee6-77e8c65f418d.htm">
+        <HelpTOCNode Title="dataCadastro Field" Url="html/90bfbbaf-4c73-cbee-bc91-9bf67a00d7f9.htm" />
+        <HelpTOCNode Title="unidadeDescricao Field" Url="html/d7eb9ee0-095b-5952-68a5-bec8398cb412.htm" />
+        <HelpTOCNode Title="unidadeID Field" Url="html/5f1a59f3-62d9-383f-cb61-29052e24e61d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b716ba0d-bd0a-4248-b0dd-514fa5029daf" Title="Unidade Methods" Url="html/29d1e570-8673-6728-8b0e-d233e446f517.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/c10ad9bf-29b8-3e9f-2e58-1c5596553e2d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f0cae262-ac2a-4132-bc9e-a593640b31c3" Title="Unidade Properties" Url="html/369d6b2f-184d-27f8-480c-a79246ab8c9c.htm">
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/b5662135-865d-072a-a74d-7a1522400a77.htm" />
+        <HelpTOCNode Title="_UnidadeDescricao Property " Url="html/8322f5db-8eff-b126-01f2-3f8ea17f576e.htm" />
+        <HelpTOCNode Title="_UnidadeID Property " Url="html/2480ea12-d81e-4ba9-9e43-3581f7a161bb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c8d14d00-c5af-48cc-bdbd-dd6ac8fa0120" Title="Usuario Class" Url="html/eaf7b8bf-60c3-68f4-e3a6-f2bed6cb3bee.htm">
+      <HelpTOCNode Title="Usuario Constructor " Url="html/b975b46b-db14-f57c-42e9-b49c405c0ba4.htm" />
+      <HelpTOCNode Id="39a0731d-679e-4a5e-acfa-9033d84e1540" Title="Usuario Fields" Url="html/f3acdd30-feb7-faa3-af07-a6dbc211ca84.htm">
+        <HelpTOCNode Title="area Field" Url="html/800f73ba-88ec-b67d-6334-e4861bc4c812.htm" />
+        <HelpTOCNode Title="dataCadastro Field" Url="html/3c13b1ce-f2e1-96aa-9f90-a48a7a116fc6.htm" />
+        <HelpTOCNode Title="ultimoAcessoData Field" Url="html/35b9136a-cf97-a885-7a05-ad2d4f93c005.htm" />
+        <HelpTOCNode Title="usuarioCpf Field" Url="html/d20cd4a7-2a04-de82-2bc5-3fc84885c1ef.htm" />
+        <HelpTOCNode Title="usuarioID Field" Url="html/58f18e80-0f1a-d979-f59b-b621a6032729.htm" />
+        <HelpTOCNode Title="usuarioNivelAcesso Field" Url="html/58a7f702-7d6c-774e-fa19-131bef360d92.htm" />
+        <HelpTOCNode Title="usuarioNome Field" Url="html/675cf448-71cd-38db-cfe3-d66d9f1e596b.htm" />
+        <HelpTOCNode Title="usuarioSenha Field" Url="html/fe818e12-e706-f7ef-1c01-d4bbd4ada4a0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a072c74f-80f6-48ce-92e2-bbdccc758ebf" Title="Usuario Methods" Url="html/5cae32f6-9619-c644-afcb-ca9c11a763fd.htm">
+        <HelpTOCNode Title="Finalize Method " Url="html/36f5e3a2-d05d-7220-c7db-fc9c924de0af.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a35c06f4-9d47-4e77-b74d-68c3c07f0e5a" Title="Usuario Properties" Url="html/0fe6cc3b-6a4b-2a88-030b-eb326d9e72bd.htm">
+        <HelpTOCNode Title="_Area Property " Url="html/2dc2cc57-04fa-2577-912b-05df607e7006.htm" />
+        <HelpTOCNode Title="_DataCadastro Property " Url="html/83d5cbc0-2dfb-6d86-88a2-4cefd5a8aa5f.htm" />
+        <HelpTOCNode Title="_UltimoAcessoData Property " Url="html/2fbd8c8a-e071-9fca-1993-81495f3ca7f1.htm" />
+        <HelpTOCNode Title="_UsuarioCpf Property " Url="html/43dc74be-ed51-cdf0-2770-5d60de88dbe2.htm" />
+        <HelpTOCNode Title="_UsuarioID Property " Url="html/8c716389-dca6-803a-b14f-1ce42584b383.htm" />
+        <HelpTOCNode Title="_UsuarioNivelAcesso Property " Url="html/b8d336d3-db44-17b5-08cc-dc8ae0a55ef1.htm" />
+        <HelpTOCNode Title="_UsuarioNome Property " Url="html/e1f0e918-a101-9a93-2b42-cdb93ca1c5b3.htm" />
+        <HelpTOCNode Title="_UsuarioSenha Property " Url="html/810b3e05-9ed3-72ca-3fb1-3994c90d53a9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="UsuarioNivelAcesso Enumeration" Url="html/6b8d4077-216f-bdfa-0377-6b8eec673e78.htm" />
+  </HelpTOCNode>
+</HelpTOC>

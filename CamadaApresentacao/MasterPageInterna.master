@@ -1,0 +1,523 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPageExterna.Master" AutoEventWireup="true" CodeBehind="MasterPageInterna.master.cs" Inherits="CamadaApresentacao.MasterPageInterna" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ConteudoExterno" runat="server">
+
+    <!--Área do Menu------------------------------------------------------------------------------------------------------------------------------------------------------------>
+    <!--Menu Admin-->
+
+    <!--Menu para usuários de nível 0-->
+    <asp:Panel ID="pnlMenuNivel0Admin" runat="server" Visible="false">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="pgIndex.aspx"><strong class="CorMenu"><i class="fa fa-home" style="font-size: 18px">Início</i></strong></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav">
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 15px">Novo</i></strong><span class="caret"></span></a>
+                                    <!--Menu Dropdown Licitação-->
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgFornecedorNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Fornecedor</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgRequisitanteNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Requisitante</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgEnderecoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Endereço</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgProcessoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Processo</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgSituacaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Situação</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgAreaNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Área/Setor</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgCentroDeCustoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Centro de Custo</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgNomeProdutoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Nome do Produto</i></strong></a></li>
+                                        <li><a href="pgProdutoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Produto</i></strong></a></li>
+                                        <li><a href="pgUnidadeNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Unidade</i></strong></a></li>
+                                        <li><a href="pgContaNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Conta</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgUsuarioNovo.aspx"><strong class="CorMenu"><i class="fa fa-user-plus" style="font-size: 18px">Novo Usuário</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Material-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-desktop" style="font-size: 15px">E/S de Material</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgEntradaMaterialNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Entrada de Material</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgSaidaMaterialNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Saída de Material</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Requisição-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 15px">Requisição</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgRequisicaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Requisição</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Estoque-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-th" style="font-size: 15px">Estoque</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgLicitacaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Estoque Atual</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Relatórios-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 15px">Relatórios</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#ModalSubmenuRelatorio" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">Relatórios</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Manuais-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 15px">Ajuda</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="ManualDoUsuario/ManualUsuario1.pdf" target="_blank"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 18px">Manual do Usuário</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="ManualDoDesenvolvedor/index.html" target="_blank"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 18px">Manual do Desenvolvedor</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Sair-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-user" style="font-size: 15px">
+                                        <asp:Label ID="lblUsuarioNomeNivel0" runat="server"></asp:Label></i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#AlterarSenhaModal" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-lock" style="font-size: 18px">Alteração de Senha</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#SairModal" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-sign-out" style="font-size: 16px">Sair</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                    </div>
+                    <!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+    </asp:Panel>
+
+    <!--Menu para usuários de nível 1-->
+    <asp:Panel ID="pnlMenuNivel1Almoxarifado" runat="server" Visible="false">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="pgIndex.aspx"><strong class="CorMenu"><i class="fa fa-home" style="font-size: 18px">Início</i></strong></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="Div1">
+                            <ul class="nav navbar-nav">
+
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 15px">Novo</i></strong><span class="caret"></span></a>
+                                    <!--Menu Dropdown Licitação-->
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgFornecedorNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Fornecedor</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgRequisitanteNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Requisitante</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgEnderecoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Endereço</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgProcessoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Processo</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgSituacaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Situação</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgAreaNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Área/Setor</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgCentroDeCustoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Centro de Custo</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgNomeProdutoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Novo Nome do Produto</i></strong></a></li>
+                                        <li><a href="pgUnidadeNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Unidade</i></strong></a></li>
+                                        <li><a href="pgContaNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Conta</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Material-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-desktop" style="font-size: 15px">E/S de Material</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgEntradaMaterialNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Entrada de Material</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgSaidaMaterialNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Saída de Material</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Requisição-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 15px">Requisição</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgRequisicaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Requisição</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Estoque-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-th" style="font-size: 15px">Estoque</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgLicitacaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Estoque Atual</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Relatórios-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 15px">Relatórios</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#ModalSubmenuRelatorio" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">Relatórios</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Manuais-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 15px">Ajuda</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="ManualDoUsuario/ManualUsuario1.pdf" target="_blank"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 18px">Manual do Usuário</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Sair-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-user" style="font-size: 15px">
+                                        <asp:Label ID="lblUsuarioNomeNivel1" runat="server"></asp:Label></i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#AlterarSenhaModal" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-lock" style="font-size: 18px">Alteração de Senha</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#SairModal" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-sign-out" style="font-size: 16px">Sair</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                    </div>
+                    <!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+    </asp:Panel>
+
+    <!--Menu para usuários de nível 2-->
+    <asp:Panel ID="pnlMenuNivel2Outros" runat="server" Visible="false">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="pgIndex.aspx"><strong class="CorMenu"><i class="fa fa-home" style="font-size: 21px">Início</i></strong></a>
+                        </div>
+
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse" id="Div2">
+                            <ul class="nav navbar-nav">
+
+                                <!--Menu Dropdown Requisição-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 15px">Requisição</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="pgRequisicaoNovo.aspx"><strong class="CorMenu"><i class="fa fa-plus-circle" style="font-size: 18px">Nova Requisição</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!--Menu Dropdown Manuais-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 15px">Ajuda</i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="ManualDoUsuario/ManualUsuario1.pdf" target="_blank"><strong class="CorMenu"><i class="fa fa-question-circle" style="font-size: 18px">Manual do Usuário</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                <li><a href="#"></a></li>
+                                
+                                <!--Menu Dropdown Sair-->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><strong class="CorMenu"><i class="fa fa-user" style="font-size: 15px">
+                                        <asp:Label ID="lblUsuarioNomeNivel2" runat="server"></asp:Label></i></strong><span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#AlterarSenhaModal" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-lock" style="font-size: 18px">Alteração de Senha</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                        <li><a href="#SairModal" data-toggle="modal"><strong class="CorMenu"><i class="fa fa-sign-out" style="font-size: 16px">Sair</i></strong></a></li>
+                                        <li role="separator" class="divider"></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                    </div>
+                    <!-- /.container-fluid -->
+                </nav>
+            </div>
+        </div>
+    </asp:Panel>
+
+    <!--Script para abrir Submenu Modal Relatório ------------------------------------------------------------------------------------------------------------------>
+    <script type="text/javascript">
+        function abrirModalSubmenuRelatorio() {
+            $('#ModalSubmenuRelatorio').modal('show');
+        }
+    </script>
+    <!--Fim do Script para abrir Submenu Modal Relatório -->
+
+    <!--Submenu Modal Relatório------------------------------------------------------------------------------------------------------------------------>
+    <div class="modal fade" data-keyboard="false" data-backdrop="static" id="ModalSubmenuRelatorio" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" style="width: 1200px;" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="panel panel-success">
+                        <div class="panel-heading">
+                            <h3 class="panel-title"><strong>Selecione uma opção</strong></h3>
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioSaidaMaterial" runat="server" OnClick="lkbRelatorioSaidaMaterial_Click">Relatório de Saída de Material</asp:LinkButton></i></strong>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioEntradaMaterial" runat="server" OnClick="lkbRelatorioEntradaMaterial_Click">Relatório de Entrada de Material</asp:LinkButton></i></strong>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioRequisicaoEspecifico" runat="server" OnClick="lkbRelatorioRequisicaoEspecifico_Click">Relatório Guia de Remessa de Material</asp:LinkButton></i></strong>
+                                </div>
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioNotificacaoBaixaDeMaterial" runat="server" OnClick="lkbRelatorioNotificacaoBaixaDeMaterial_Click">Relatório Notificação de Baixa de Material </asp:LinkButton></i></strong>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbMovimentacaoDetalhadaEntradaMaterial" runat="server" OnClick="lkbMovimentacaoDetalhadaEntradaMaterial_Click">Relatório Movimentação Detalhada Entrada de Material</asp:LinkButton></i></strong>
+                                </div>
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbMovimentacaoDetalhadaSaidaMaterial" runat="server" OnClick="lkbMovimentacaoDetalhadaSaidaMaterial_Click">Relatório Movimentação Detalhada Saída de Material </asp:LinkButton></i></strong>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioEntradaMaterialGeral" runat="server" OnClick="lkbRelatorioEntradaMaterialGeral_Click">Relatório Entrada Material Geral</asp:LinkButton></i></strong>
+                                </div>
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioSaidaMaterialGeral" runat="server" OnClick="lkbRelatorioSaidaMaterialGeral_Click">Relatório Saída Material Geral </asp:LinkButton></i></strong>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioMensalConsumoAlmoxarifado" runat="server" OnClick="lkbRelatorioMensalConsumoAlmoxarifado_Click">Relatório Mensal do Almoxarifado(Material de Consumo)</asp:LinkButton></i></strong>
+                                </div>
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioMensalPermanenteAlmoxarifado" runat="server" OnClick="lkbRelatorioMensalPermanenteAlmoxarifado_Click">Relatório Mensal do Almoxarifado(Material Permanente) </asp:LinkButton></i></strong>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioInventarioEstoque" runat="server" OnClick="lkbRelatorioInventarioEstoque_Click">Relatório Inventário de Estoque</asp:LinkButton></i></strong>
+                                </div>
+                                <div class="col-md-6">
+                                    <strong class="CorMenu"><i class="fa fa-file-text-o" style="font-size: 18px">
+                                        <asp:LinkButton ID="lkbRelatorioEstoqueAtual" runat="server" OnClick="lkbRelatorioEstoqueAtual_Click">Relatório Estoque Atual</asp:LinkButton></i></strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-default btn-sm" data-dismiss="modal"><i class="fa fa-reply">Cancelar</i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Fim do Submenu Relatório-->
+
+    <!--Área Alterar Senha----------------------------------------------------------------------------------------------------------------------------------------------------->
+    <!--Script para reabrir Modal de Alterar a Senha-->
+    <script type="text/javascript">
+        function openAlterarSenhaModal() {
+            $('#AlterarSenhaModal').modal('show');
+        }
+    </script>
+
+    <!-- Modal para Alterar a Senha do Usuário -->
+    <div class="modal fade" data-keyboard="false" data-backdrop="static" id="AlterarSenhaModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" style="width: 400px;">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="panel panel-success">
+                        <div class="panel-heading">
+                            <h3 class="panel-title text-center"><i class="fa fa-lock">Alteração de Senha</i></h3>
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-md-9 col-md-offset-1">
+                                    <div class="input-group">
+                                        <span class="input-group-btn">
+                                            <asp:LinkButton ID="lkbNovaSenhaImagem" runat="server" CssClass="btn btn-default btn-sm"><i class="fa fa-lock"></i></asp:LinkButton>
+                                        </span>
+                                        <asp:TextBox ID="txtNovaSenha" runat="server" CssClass="form-control input-sm" placeholder="Digite a nova senha."></asp:TextBox>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-9 col-md-offset-1">
+                                    <div class="input-group">
+                                        <span class="input-group-btn">
+                                            <asp:LinkButton ID="lkbConfirmarSenhaImagem" runat="server" CssClass="btn btn-default btn-sm"><i class="fa fa-lock"></i></asp:LinkButton>
+                                        </span>
+                                        <asp:TextBox ID="txtConfirmarSenha" runat="server" CssClass="form-control input-sm" placeholder="Repita a nova senha."></asp:TextBox>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-9 col-md-offset-1">
+                                    <asp:LinkButton ID="lkbAlterarSenha" runat="server" CssClass="btn btn-success btn-sm" OnClick="lkbAlterarSenha_Click"><i class="fa fa-check"> Alterar</i></asp:LinkButton>
+                                    <asp:LinkButton ID="lkbCancelarAlterarSenha" runat="server" CssClass="btn btn-default btn-sm" OnClick="lkbCancelarAlterarSenha_Click"><i class="fa fa-reply"> Cancelar</i></asp:LinkButton>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Área Sair do Sistema----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+    <!-- Modal para Sair do Sistema -->
+    <div class="modal fade" data-keyboard="false" data-backdrop="static" id="SairModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="panel panel-success">
+                        <div class="panel-heading">
+                            <h3 class="panel-title text-center"><strong>Sair?</strong></h3>
+                        </div>
+                        <div class="panel-body">
+                            <h5><strong>Tem certeza que deseja sair?</strong> </h5>
+
+                            <br />
+
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <asp:LinkButton ID="lkbSair" runat="server" CssClass="btn btn-success btn-sm" OnClick="lkbSair_Click"><i class="fa fa-check"> Sair</i></asp:LinkButton>
+                                    <button type="button" class="btn btn-default btn-sm" data-dismiss="modal"><i class="fa fa-reply">Cancelar</i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Conteúdo interno do sistema(Páginas, relatórios, gráficos)-->
+    <asp:ContentPlaceHolder ID="ConteudoInterno" runat="server">
+    </asp:ContentPlaceHolder>
+
+</asp:Content>
